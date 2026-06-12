@@ -1,0 +1,516 @@
+{
+  "name": "Sales Leadership RAG Chatbot",
+  "nodes": [
+    {
+      "parameters": {
+        "options": {}
+      },
+      "id": "d9a362c1-691f-4bd8-acd3-8b41da795e59",
+      "name": "OpenAI Embeddings",
+      "type": "@n8n/n8n-nodes-langchain.embeddingsOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        1136,
+        528
+      ],
+      "credentials": {
+        "openAiApi": {
+          "id": "6FjDNSqDpf8U1T7O",
+          "name": "OpenAI account"
+        }
+      }
+    },
+    {
+      "parameters": {},
+      "id": "1c09642e-945d-4b20-9bda-884329409643",
+      "name": "When clicking \"Test workflow\"",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        240,
+        304
+      ]
+    },
+    {
+      "parameters": {
+        "operation": "download",
+        "fileId": {
+          "__rl": true,
+          "value": "={{ $json.id }}",
+          "mode": "id"
+        },
+        "options": {}
+      },
+      "id": "fe51a754-c836-4424-a475-6252df0b8926",
+      "name": "Download File",
+      "type": "n8n-nodes-base.googleDrive",
+      "typeVersion": 3,
+      "position": [
+        688,
+        304
+      ],
+      "credentials": {
+        "googleDriveOAuth2Api": {
+          "id": "kAugeKCvENO06lGZ",
+          "name": "Google Drive OAuth2 API"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "mode": "insert",
+        "pineconeIndex": {
+          "__rl": true,
+          "value": "rage-sales-agent",
+          "mode": "list",
+          "cachedResultName": "rage-sales-agent"
+        },
+        "embeddingBatchSize": 10,
+        "options": {
+          "clearNamespace": false,
+          "pineconeNamespace": ""
+        }
+      },
+      "id": "7a8d8797-d0cd-4d66-9a89-a6b378d39510",
+      "name": "Insert into Pinecone",
+      "type": "@n8n/n8n-nodes-langchain.vectorStorePinecone",
+      "typeVersion": 1.3,
+      "position": [
+        1376,
+        304
+      ],
+      "credentials": {
+        "pineconeApi": {
+          "id": "1LQJraR1gCYoR2uW",
+          "name": "Pinecone account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "textSplittingMode": "custom",
+        "options": {
+          "metadata": {
+            "metadataValues": [
+              {
+                "name": "doc_type",
+                "value": "={{ $json.metadata.doc_type }}"
+              },
+              {
+                "name": "customer_id",
+                "value": "={{ $json.metadata.customer_id }}"
+              },
+              {
+                "name": "customer_name",
+                "value": "={{ $json.metadata.customer_name }}"
+              },
+              {
+                "name": "account_executive",
+                "value": "={{ $json.metadata.account_executive }}"
+              },
+              {
+                "name": "contract_id",
+                "value": "={{ $json.metadata.contract_id }}"
+              },
+              {
+                "name": "date",
+                "value": "={{ $json.metadata.date }}"
+              },
+              {
+                "name": "year",
+                "value": "={{ $json.metadata.year }}"
+              }
+            ]
+          }
+        }
+      },
+      "id": "ba79f6bb-204f-4668-b83b-cffeca507e64",
+      "name": "Default Data Loader",
+      "type": "@n8n/n8n-nodes-langchain.documentDefaultDataLoader",
+      "typeVersion": 1.1,
+      "position": [
+        1264,
+        528
+      ]
+    },
+    {
+      "parameters": {
+        "chunkSize": 800,
+        "chunkOverlap": 100,
+        "options": {
+          "splitCode": "markdown"
+        }
+      },
+      "id": "19934a28-c190-47bc-85d8-89445787ef7b",
+      "name": "Recursive Text Splitter",
+      "type": "@n8n/n8n-nodes-langchain.textSplitterRecursiveCharacterTextSplitter",
+      "typeVersion": 1,
+      "position": [
+        1344,
+        736
+      ]
+    },
+    {
+      "parameters": {
+        "content": "## 📥 Data Ingestion Pipeline\n\n**Purpose**: Load sales documents into Pinecone vector store\n\n**Process**:\n1. List files from Google Drive (PDFs, Docs, DOCX, TXT, ZIP)\n2. Download each file as binary data\n3. Parse JSON and split content from metadata\n4. Split into 1000-char chunks (200 overlap)\n5. Generate embeddings with OpenAI\n6. Insert into Pinecone with metadata\n\n**Metadata Added**:\n- source: filename\n- mimeType: file type\n- uploadDate: timestamp",
+        "height": 420,
+        "width": 420,
+        "color": 2
+      },
+      "id": "7e6c94cc-9705-420c-957c-2f62e6749d99",
+      "name": "Sticky Note 1",
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        48,
+        -256
+      ]
+    },
+    {
+      "parameters": {
+        "content": "## 🔧 Setup Instructions\n\n1. **Google Drive**: Connect OAuth2, select folder with sales docs\n2. **Pinecone**: Create index (dimension: 1536 for text-embedding-3-small)\n3. **OpenAI**: API key for embeddings\n\n**Supported Formats**:\n- PDF, Google Docs, DOCX, TXT, EPUB, CSV, JSON, ZIP\n\n**Run**: Click \"Test workflow\" to process up to 50 files\n\n**For ongoing sync**: Replace Manual Trigger with Google Drive Trigger",
+        "height": 280,
+        "width": 380,
+        "color": 4
+      },
+      "id": "5e5652ae-7d51-4dff-be13-874c7293117d",
+      "name": "Sticky Note 2",
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        528,
+        -240
+      ]
+    },
+    {
+      "parameters": {
+        "mode": "runOnceForEachItem",
+        "jsCode": "// Get the binary buffer properly through n8n's helper\nconst buffer = await this.helpers.getBinaryDataBuffer(\n  $itemIndex,\n  'data'\n);\n\nconst jsonString = buffer.toString('utf-8');\nconst parsed = JSON.parse(jsonString);\n\nreturn {\n  json: {\n    content: parsed.content,\n    metadata: parsed.metadata,\n    fileName: $input.item.json.name\n  }\n};"
+      },
+      "id": "61fd863a-46d3-448f-8d80-f456b4fc7c17",
+      "name": "Parse JSON and Split",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        912,
+        304
+      ]
+    },
+    {
+      "parameters": {
+        "resource": "fileFolder",
+        "queryString": ".json",
+        "limit": 100,
+        "filter": {
+          "folderId": {
+            "__rl": true,
+            "value": "1UxC7DRBp_7mGwLGikx8uTgvdIkDkij2a",
+            "mode": "list",
+            "cachedResultName": "corpus",
+            "cachedResultUrl": "https://drive.google.com/drive/folders/1UxC7DRBp_7mGwLGikx8uTgvdIkDkij2a"
+          }
+        },
+        "options": {}
+      },
+      "id": "0c204026-8f01-4684-b67a-bbb97a1827c9",
+      "name": "Search files and folders",
+      "type": "n8n-nodes-base.googleDrive",
+      "typeVersion": 3,
+      "position": [
+        464,
+        304
+      ],
+      "credentials": {
+        "googleDriveOAuth2Api": {
+          "id": "kAugeKCvENO06lGZ",
+          "name": "Google Drive OAuth2 API"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "mode": "runOnceForEachItem",
+        "jsCode": "const content = $input.item.json.content;\nconst metadata = $input.item.json.metadata;\nconst fileName = $input.item.json.fileName;\n\nlet cleanedContent;\n\nif (metadata.doc_type === 'qbr_summary') {\n  // Keep QBR content as-is\n  cleanedContent = content.trim();\n} else {\n  // Strip everything before the first blank line\n  const parts = content.split('\\n\\n');\n  cleanedContent = parts.slice(1).join('\\n\\n').trim();\n}\n\n// Normalize whitespace\ncleanedContent = cleanedContent.replace(/\\n{3,}/g, '\\n\\n');\n\nreturn {\n  json: {\n    content: cleanedContent,\n    metadata: metadata,\n    fileName: fileName\n  }\n};"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1120,
+        304
+      ],
+      "id": "ae000f52-d53c-4807-9f6a-165717301148",
+      "name": "Cleaning Node"
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.chatTrigger",
+      "typeVersion": 1.4,
+      "position": [
+        160,
+        1104
+      ],
+      "id": "0969ae7a-fc79-4e9a-a25c-c7742ca57c1c",
+      "name": "When chat message received",
+      "webhookId": "6c9b164c-4427-43ec-b9a8-2145a44a7d62"
+    },
+    {
+      "parameters": {
+        "options": {
+          "systemMessage": "You are a sales intelligence assistant for a B2B SaaS company. You have access to a vector store containing call transcripts, deal notes, churn reports, and QBR summaries for our customers.\n\nALWAYS search the vector store before answering any question. Never answer from general knowledge. If the vector store has no relevant results, say \"I don't have information about that in our records.\"\n\nWhen answering:\n- Cite the document type and date (e.g. \"According to the churn report dated June 10, 2024...\")\n- Include the customer name, account executive, and any relevant metadata\n- Be specific and factual — only state what the documents say"
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 3.1,
+      "position": [
+        368,
+        1104
+      ],
+      "id": "ac54acc4-c13f-40de-97e0-9ef922ae2102",
+      "name": "AI Agent"
+    },
+    {
+      "parameters": {
+        "mode": "retrieve-as-tool",
+        "toolDescription": "Search the sales corpus for information about customers, deals, churn reports, call transcripts, and QBR summaries. Use this to answer questions about customer history, account executive activity, churn reasons, and business performance.",
+        "pineconeIndex": {
+          "__rl": true,
+          "value": "rage-sales-agent",
+          "mode": "list",
+          "cachedResultName": "rage-sales-agent"
+        },
+        "topK": 10,
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.vectorStorePinecone",
+      "typeVersion": 1.3,
+      "position": [
+        720,
+        1280
+      ],
+      "id": "e2483ccf-9813-4f1a-824a-b6a1ed92ab6b",
+      "name": "Pinecone Vector Store",
+      "credentials": {
+        "pineconeApi": {
+          "id": "1LQJraR1gCYoR2uW",
+          "name": "Pinecone account"
+        }
+      }
+    },
+    {
+      "parameters": {},
+      "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
+      "typeVersion": 1.4,
+      "position": [
+        384,
+        1312
+      ],
+      "id": "d3086399-7431-4a3a-9185-5891014eb68e",
+      "name": "Simple Memory"
+    },
+    {
+      "parameters": {
+        "model": {
+          "__rl": true,
+          "mode": "list",
+          "value": "gpt-5-mini"
+        },
+        "builtInTools": {},
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenAi",
+      "typeVersion": 1.3,
+      "position": [
+        240,
+        1312
+      ],
+      "id": "d2e08df6-e1f4-4b34-93f0-71ea1bf9c6c2",
+      "name": "OpenAI Chat Model",
+      "credentials": {
+        "openAiApi": {
+          "id": "6FjDNSqDpf8U1T7O",
+          "name": "OpenAI account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.embeddingsOpenAi",
+      "typeVersion": 1.2,
+      "position": [
+        816,
+        1382.4779219581515
+      ],
+      "id": "ce2ce9cf-0f61-4ff9-a9d7-5fdd0c5de597",
+      "name": "Embeddings OpenAI",
+      "credentials": {
+        "openAiApi": {
+          "id": "6FjDNSqDpf8U1T7O",
+          "name": "OpenAI account"
+        }
+      }
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "OpenAI Embeddings": {
+      "ai_embedding": [
+        [
+          {
+            "node": "Insert into Pinecone",
+            "type": "ai_embedding",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "When clicking \"Test workflow\"": {
+      "main": [
+        [
+          {
+            "node": "Search files and folders",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Download File": {
+      "main": [
+        [
+          {
+            "node": "Parse JSON and Split",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Default Data Loader": {
+      "ai_document": [
+        [
+          {
+            "node": "Insert into Pinecone",
+            "type": "ai_document",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Recursive Text Splitter": {
+      "ai_textSplitter": [
+        [
+          {
+            "node": "Default Data Loader",
+            "type": "ai_textSplitter",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Parse JSON and Split": {
+      "main": [
+        [
+          {
+            "node": "Cleaning Node",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Search files and folders": {
+      "main": [
+        [
+          {
+            "node": "Download File",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Cleaning Node": {
+      "main": [
+        [
+          {
+            "node": "Insert into Pinecone",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "When chat message received": {
+      "main": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Pinecone Vector Store": {
+      "ai_tool": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_tool",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Simple Memory": {
+      "ai_memory": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_memory",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OpenAI Chat Model": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Embeddings OpenAI": {
+      "ai_embedding": [
+        [
+          {
+            "node": "Pinecone Vector Store",
+            "type": "ai_embedding",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate"
+  },
+  "versionId": "6f41a6fe-11c1-47d9-aefb-e600b5efd7f4",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "7e8429e881ad6f0ad69e375013a8cb8f3a8fc062070edf276a32c4a49eaf5a2b"
+  },
+  "nodeGroups": [],
+  "id": "SXCx5MZn1XCYTCoM",
+  "tags": []
+}
