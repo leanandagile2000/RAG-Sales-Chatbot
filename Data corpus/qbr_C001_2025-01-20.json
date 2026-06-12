@@ -1,0 +1,13 @@
+{
+  "content": "QBR SUMMARY\nCustomer: Meridian Health Systems\nCustomer ID: C001\nContract ID: K013\nAccount Executive: Sarah Chen\nPeriod: H2 2024 (July \u2013 December 2024)\nMeeting Date: January 20, 2025\nAttendees: Sarah Chen (AE), Dr. Linda Forsythe (Director of Clinical Operations), Dr. Marcus Hill (CMO), Kevin Marsh (IT Coordinator)\n\nBUSINESS PERFORMANCE\nMeridian closed 2024 as their strongest year operationally. All three facilities operating at above-target capacity. The clinical operations team grew to 42 staff members. Planning underway for a potential fourth facility in 2026.\n\nPLATFORM USAGE\n38 of 40 licensed users active. The 2 inactive licenses are held for new hires expected in Q1 2025. Weekly report generation at 89 reports per week. 24 custom dashboards in active use.\n\nKEY DISCUSSION POINTS\n- EHR integration beta completed successfully in Q4 2024 \u2014 Meridian was one of the first customers to complete the beta. Dr. Hill described the integrated data flow as exceeding expectations, eliminating the weekly manual export entirely\n- Dr. Hill is now the internal champion for expanding InsightIQ usage beyond clinical operations into the broader administrative team\n- Compliance team confirmed the tamper-evident audit log export (released Q4 2024) meets their regulatory requirements \u2014 Kevin Marsh submitted documentation to their accreditation body\n- Fourth facility planning: Dr. Forsythe expects to need 8-10 more users when the fourth facility opens, targeted for 2026\n\nSATISFACTION RATING: 5/5\nDr. Hill: \"The EHR integration changed what this platform means for us. We went from a reporting tool to a real-time operations platform. This is now core infrastructure.\"\n\nACTION ITEMS\n- Sarah Chen to prepare 2025 renewal proposal for 40 users with fourth facility expansion path documented\n- Kevin Marsh to share accreditation audit log outcome with Sarah Chen for use as a case study (pending Dr. Hill's approval)\n- Schedule fourth facility planning conversation for Q3 2025\n\nNEXT QBR: July 2025\n",
+  "metadata": {
+    "doc_type": "qbr_summary",
+    "customer_id": "C001",
+    "customer_name": "Meridian Health Systems",
+    "account_executive": "Sarah Chen",
+    "contract_id": "K013",
+    "date": "2025-01-20",
+    "year": 2025,
+    "period": "H2 2024"
+  }
+}

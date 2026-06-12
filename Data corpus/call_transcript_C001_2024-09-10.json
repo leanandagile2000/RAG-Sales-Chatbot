@@ -1,0 +1,12 @@
+{
+  "content": "CALL TRANSCRIPT\nCustomer: Meridian Health Systems\nCustomer ID: C001\nContract ID: K013\nAccount Executive: Sarah Chen\nCall Type: QBR Follow-up\nDate: September 10, 2024\nParticipants: Sarah Chen (AE), Dr. Linda Forsythe (Director of Clinical Operations), Dr. Marcus Hill (Chief Medical Officer)\n\nSarah Chen: Thanks for joining, Dr. Hill. Linda mentioned you wanted to hear more about the API integration roadmap.\n\nDr. Hill: That's right. We're evaluating our EHR vendor's integration marketplace and InsightIQ came up as a potential data destination. I wanted to understand where that stands on your side.\n\nSarah Chen: The API integration module is currently in beta with a small group of customers. We're targeting general availability in Q4 2024. It supports bidirectional data sync with the major EHR platforms \u2014 I can get you the compatibility list after this call.\n\nDr. Hill: That would be helpful. If it works with our EHR, this becomes a much more strategic tool for us. Right now we're exporting data manually every week, which introduces lag.\n\nDr. Forsythe: The manual export is honestly the biggest friction point we have left. Everything else is working well.\n\nSarah Chen: Understood. I'll connect you with our solutions engineer to do a technical scoping session once I send over the compatibility list. If your EHR is on the list, we can potentially get you into the beta.\n\nDr. Hill: That would be ideal. Linda, anything else from your team?\n\nDr. Forsythe: One request \u2014 our new facility is fully onboarded now and the team there has asked about a training refresher. Can we schedule something for October?\n\nSarah Chen: Absolutely. I'll coordinate with our customer success team and get something on the calendar this week.\n",
+  "metadata": {
+    "doc_type": "call_transcript",
+    "customer_id": "C001",
+    "customer_name": "Meridian Health Systems",
+    "account_executive": "Sarah Chen",
+    "contract_id": "K013",
+    "date": "2024-09-10",
+    "year": 2024
+  }
+}

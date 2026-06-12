@@ -1,0 +1,12 @@
+{
+  "content": "CALL TRANSCRIPT\nCustomer: Crestline Manufacturing\nCustomer ID: C004\nContract ID: K004\nAccount Executive: Tom Rivera\nCall Type: Renewal Discussion\nDate: March 18, 2024\nParticipants: Tom Rivera (AE), Dale Pruitt (Operations Manager), CFO voice only \u2014 name not provided\n\nTom Rivera: Dale, thanks for making time. I know we've had a few conversations about adoption and I wanted to address the renewal directly.\n\nDale Pruitt: Tom, I'll be upfront. We talked to our CFO before this call and we've made a decision not to renew. The adoption just never took hold and with the capital equipment spend we made this year, we're trimming SaaS costs.\n\nTom Rivera: I understand, Dale. I appreciate you letting me know directly. Can I ask \u2014 is there anything we could have done differently from a product or support standpoint?\n\nDale Pruitt: Honestly, I think it's a fit issue more than anything. Our managers need something purpose-built for manufacturing scheduling and inventory. DataSync Pro is a solid tool but it's not that. We're going back to using our ERP for most of this and spreadsheets for the rest.\n\nTom Rivera: That's fair. I offered a discount to retain the account \u2014 15 percent, down to roughly $5,500 \u2014 but I understand if the decision is final.\n\nDale Pruitt: We appreciate the offer but the decision is made. No hard feelings on our end.\n\nTom Rivera: None on ours either. I'll make sure the offboarding is smooth. Let me know if you ever revisit your tooling needs.\n",
+  "metadata": {
+    "doc_type": "call_transcript",
+    "customer_id": "C004",
+    "customer_name": "Crestline Manufacturing",
+    "account_executive": "Tom Rivera",
+    "contract_id": "K004",
+    "date": "2024-03-18",
+    "year": 2024
+  }
+}

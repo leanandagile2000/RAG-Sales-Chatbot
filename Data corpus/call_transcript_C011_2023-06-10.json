@@ -1,0 +1,12 @@
+{
+  "content": "CALL TRANSCRIPT\nCustomer: Irongate Construction\nCustomer ID: C011\nContract ID: K011\nAccount Executive: Tom Rivera\nCall Type: Onboarding Check-in\nDate: June 10, 2023\nParticipants: Tom Rivera (AE), Greg Halloran (VP of Operations), Renee Kowalski (Office Manager)\n\nTom Rivera: Greg, Renee \u2014 two months in. How's the rollout going?\n\nRenee Kowalski: It's a mixed picture. The office team is using it fine \u2014 the document sharing between job sites is working. But the field crews are struggling.\n\nTom Rivera: What's happening with the field crews?\n\nRenee Kowalski: Most of our job sites have spotty connectivity. The app requires a connection to sync and when there's no signal, the crew gets an error and can't access what they need. On a construction site, that's a real problem.\n\nTom Rivera: That's a real limitation of the current mobile app \u2014 offline mode is on the roadmap but it's not available yet. I should have flagged that more explicitly during the sales process. I apologize for that gap.\n\nGreg Halloran: Honesty is appreciated. So what can we do in the meantime?\n\nTom Rivera: The workaround is pre-downloading documents to device storage before going to site. It's manual but it works. I can set up a training session to show your site leads how to do it.\n\nGreg Halloran: Renee, is that practical?\n\nRenee Kowalski: It's doable but it adds a step. The crews aren't the most tech-savvy group.\n\nTom Rivera: Let me set up the training and we'll see how it lands. If offline mode ships in the next few months, it solves the problem entirely.\n\nGreg Halloran: Let's try it. But Tom \u2014 this needs to work for the field crews, not just the office. That's the whole point.\n",
+  "metadata": {
+    "doc_type": "call_transcript",
+    "customer_id": "C011",
+    "customer_name": "Irongate Construction",
+    "account_executive": "Tom Rivera",
+    "contract_id": "K011",
+    "date": "2023-06-10",
+    "year": 2023
+  }
+}

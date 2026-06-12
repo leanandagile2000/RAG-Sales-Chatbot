@@ -1,0 +1,13 @@
+{
+  "content": "QBR SUMMARY\nCustomer: Meridian Health Systems\nCustomer ID: C001\nContract ID: K001\nAccount Executive: Sarah Chen\nPeriod: H2 2023 (July \u2013 December 2023)\nMeeting Date: January 22, 2024\nAttendees: Sarah Chen (AE), Dr. Linda Forsythe (Director of Clinical Operations), Kevin Marsh (IT Coordinator)\n\nBUSINESS PERFORMANCE\nMeridian's third facility broke ground in Q4 2023 and is on track for Q1 2024 opening. Patient volume across existing facilities grew 9% in H2 2023. The clinical operations team has grown by 4 staff members in preparation for the third facility.\n\nPLATFORM USAGE\n27 of 30 licensed users active as of December 2023 \u2014 the 3 inactive users are new hires onboarding in Q4. Weekly report generation increased to 51 reports per week, up from 34 in H1. 12 custom dashboards now exist across the team, up from 8.\n\nKEY DISCUSSION POINTS\n- PDF export rendering issue was partially resolved in a product update in October 2023 \u2014 most report layouts now export cleanly. One edge case involving multi-column layouts remains open\n- Dr. Forsythe confirmed the third facility will need 10 additional users at launch \u2014 renewal and expansion discussion confirmed for February 2024\n- Kevin Marsh raised a question about HIPAA audit logging requirements \u2014 Sarah Chen confirmed InsightIQ's Enterprise tier includes full audit logging meeting HIPAA requirements and offered to provide documentation\n- Dr. Marcus Hill (CMO) has been briefed on the platform and expressed interest in the EHR integration roadmap\n\nSATISFACTION RATING: 4.5/5\nDr. Forsythe: \"Usage has grown naturally. The team relies on it now. The PDF issue lingered longer than we'd like but it's mostly resolved.\"\n\nACTION ITEMS\n- Sarah Chen to provide HIPAA audit logging documentation to Kevin Marsh by February 1\n- Renewal and expansion proposal for 40 users to be prepared for February 2024 meeting\n- Sarah Chen to arrange EHR integration briefing with Dr. Hill\n\nNEXT QBR: July 2024\n",
+  "metadata": {
+    "doc_type": "qbr_summary",
+    "customer_id": "C001",
+    "customer_name": "Meridian Health Systems",
+    "account_executive": "Sarah Chen",
+    "contract_id": "K001",
+    "date": "2024-01-22",
+    "year": 2024,
+    "period": "H2 2023"
+  }
+}

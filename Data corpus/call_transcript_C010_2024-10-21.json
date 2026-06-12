@@ -1,0 +1,12 @@
+{
+  "content": "CALL TRANSCRIPT\nCustomer: NorthBridge Consulting\nCustomer ID: C010\nContract ID: K020\nAccount Executive: Sarah Chen\nCall Type: Strategic Review\nDate: October 21, 2024\nParticipants: Sarah Chen (AE), Patricia Wells (COO), Frank Abara (Head of Government Practice)\n\nSarah Chen: Patricia, Frank \u2014 great to have you. I know the government practice is new territory for NorthBridge. Frank, I understand you have some specific requirements you wanted to walk through.\n\nFrank Abara: That's right. We won our first federal contract in Q3 and we need to ensure any tools used in that engagement meet FedRAMP authorization requirements. I need to know where DataSync Pro stands on that.\n\nSarah Chen: We are not FedRAMP authorized today. That's something I want to be upfront about rather than dance around it. It's on our longer-term roadmap but I can't give you a committed date.\n\nFrank Abara: I appreciate the honesty. That does create a problem for the federal work specifically. We'd have to keep that data off the platform.\n\nSarah Chen: That's the right call for the federal work. For your commercial consulting projects \u2014 which I assume will remain the majority of your portfolio \u2014 DataSync Pro is fully compliant with SOC 2 Type II and ISO 27001. The federal work can live in a compliant environment and the rest of your team stays on DataSync Pro.\n\nPatricia Wells: That's a workable split. Frank, does that address your concern?\n\nFrank Abara: For now, yes. But if the federal practice grows, we'll need to revisit.\n\nSarah Chen: Absolutely fair. I'll flag FedRAMP as a high-priority request from your account and make sure you're notified the moment there's a roadmap update.\n\nPatricia Wells: Thanks Sarah. Let's keep the renewal moving \u2014 we're happy with the platform for the core business.\n",
+  "metadata": {
+    "doc_type": "call_transcript",
+    "customer_id": "C010",
+    "customer_name": "NorthBridge Consulting",
+    "account_executive": "Sarah Chen",
+    "contract_id": "K020",
+    "date": "2024-10-21",
+    "year": 2024
+  }
+}

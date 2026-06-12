@@ -1,0 +1,12 @@
+{
+  "content": "CALL TRANSCRIPT\nCustomer: Harmon Retail Group\nCustomer ID: C005\nContract ID: K016\nAccount Executive: James Okafor\nCall Type: Strategic Account Review\nDate: July 22, 2025\nParticipants: James Okafor (AE), Sandra Harmon (COO), Darius Moore (Regional Manager, West)\n\nJames Okafor: Sandra, great to connect mid-year. You're one of our top accounts and I wanted to make sure we're aligned on where things stand and where you want to go.\n\nSandra Harmon: We're in a good place. The distribution center team has fully adopted the platform \u2014 Darius can speak to that.\n\nDarius Moore: Distribution center has been using it for about six months now. The supervisors are managing shift handoff documentation through DataSync Pro and it's cut down on miscommunications significantly. No complaints.\n\nSandra Harmon: James, I want to revisit the franchise partner conversation. We now have 34 active franchise locations and they're operating independently from our documentation. It creates inconsistency. I want to explore a read-only access tier for franchise partners.\n\nJames Okafor: I've been pushing internally on that since you raised it last year. The honest answer is it's not on the roadmap for 2025. What we can do in the interim is create a shared folder structure that franchise partners access via a guest link \u2014 it's not as clean as a dedicated tier but it solves the core problem.\n\nSandra Harmon: That's better than nothing. Can you walk me through how that would work?\n\nJames Okafor: Absolutely. I'll set up a short demo next week and we can decide if it meets your needs while we wait for a proper solution.\n\nSandra Harmon: Works for me. Let's do it.\n",
+  "metadata": {
+    "doc_type": "call_transcript",
+    "customer_id": "C005",
+    "customer_name": "Harmon Retail Group",
+    "account_executive": "James Okafor",
+    "contract_id": "K016",
+    "date": "2025-07-22",
+    "year": 2025
+  }
+}

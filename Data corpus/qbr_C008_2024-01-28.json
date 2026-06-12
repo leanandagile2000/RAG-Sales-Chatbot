@@ -1,0 +1,13 @@
+{
+  "content": "QBR SUMMARY\nCustomer: Summit Tech Partners\nCustomer ID: C008\nContract ID: K006\nAccount Executive: James Okafor\nPeriod: H2 2023 (July \u2013 December 2023)\nMeeting Date: January 28, 2024\nAttendees: James Okafor (AE), Alex Nguyen (CTO), Natalie Brooks (Head of Client Services)\n\nBUSINESS PERFORMANCE\nSummit Tech added 7 new managed services clients in H2 2023, bringing their total to 26 clients \u2014 ahead of their target of 8. Annual revenue grew 31% year over year. Natalie Brooks joined the QBR to represent the client services team, which has grown to 8 staff members.\n\nPLATFORM USAGE\n25 of 25 licensed users active. Weekly report generation at 94 reports per week, up from 67 in H1. White-label dashboards deployed to 22 of 26 managed services clients. Automated scheduled delivery running for all active client dashboards.\n\nKEY DISCUSSION POINTS\n- Natalie Brooks highlighted that InsightIQ's branded reporting has become a standard deliverable in their client onboarding package \u2014 \"clients now expect it as part of what we do\"\n- SSO remains unresolved \u2014 Alex Nguyen reiterated it is a blocker for two enterprise clients. James Okafor provided updated roadmap information placing SSO in H1 2024\n- Renewal and expansion discussion: 30 users at renewal in May 2024 to account for new managed services clients added\n- Dedicated CSM: current ARR at renewal will be approximately $43,200 \u2014 still below the $60K threshold. Alex Nguyen expressed understanding but flagged it as a continued need\n\nSATISFACTION RATING: 4.5/5\nNatalie Brooks: \"Our clients see InsightIQ as part of Summit Tech's service. Two clients renewed with us specifically mentioning the reporting quality. That's real business value.\"\n\nACTION ITEMS\n- James Okafor to provide written SSO roadmap commitment ahead of May 2024 renewal\n- Renewal proposal for 30 users to be prepared by April 2024\n- Track ARR toward dedicated CSM threshold\n\nNEXT QBR: July 2024\n",
+  "metadata": {
+    "doc_type": "qbr_summary",
+    "customer_id": "C008",
+    "customer_name": "Summit Tech Partners",
+    "account_executive": "James Okafor",
+    "contract_id": "K006",
+    "date": "2024-01-28",
+    "year": 2024,
+    "period": "H2 2023"
+  }
+}

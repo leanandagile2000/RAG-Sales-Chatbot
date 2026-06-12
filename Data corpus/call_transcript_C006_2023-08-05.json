@@ -1,0 +1,12 @@
+{
+  "content": "CALL TRANSCRIPT\nCustomer: Pinnacle Education\nCustomer ID: C006\nContract ID: K009\nAccount Executive: Tom Rivera\nCall Type: 6-Month Check-in\nDate: August 5, 2023\nParticipants: Tom Rivera (AE), Rachel Kim (Director of Academic Technology)\n\nTom Rivera: Rachel, we're six months in. How is the curriculum team finding the platform?\n\nRachel Kim: It's been genuinely useful. The version control on curriculum documents has solved a real problem for us \u2014 before this, we had faculty working off different versions and it caused issues during accreditation reviews. That's no longer a concern.\n\nTom Rivera: Really glad to hear that. Usage looks healthy from our side \u2014 8 of 10 users are active weekly.\n\nRachel Kim: The two who aren't active are adjunct faculty who are only here part-time. That's not a platform issue. The core team is fully on board.\n\nTom Rivera: Any requests or friction points?\n\nRachel Kim: The notification settings could be more granular. Right now users get notified for every document change, which is overwhelming when a folder has a lot of activity. A daily digest option would help.\n\nTom Rivera: I'll log that. It's a reasonable ask and I'd be surprised if it's not already on the roadmap. I'll check and get back to you.\n\nRachel Kim: Tom, I'm going to present to our President's office in October about expanding the platform. The accreditation use case has been compelling enough that I think I can get budget for a much broader rollout \u2014 potentially the whole faculty.\n\nTom Rivera: That's exciting. If it would help, I can put together a usage and ROI summary you can use in that presentation.\n\nRachel Kim: That would be very helpful. Can you have something to me by end of September?\n\nTom Rivera: Absolutely.\n",
+  "metadata": {
+    "doc_type": "call_transcript",
+    "customer_id": "C006",
+    "customer_name": "Pinnacle Education",
+    "account_executive": "Tom Rivera",
+    "contract_id": "K009",
+    "date": "2023-08-05",
+    "year": 2023
+  }
+}

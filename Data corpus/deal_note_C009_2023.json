@@ -1,0 +1,12 @@
+{
+  "content": "DEAL NOTE\nCustomer: Fairview Legal Group\nCustomer ID: C009\nContract ID: K010\nAccount Executive: Tom Rivera\nDeal Type: New Business\nDate: May 1, 2023\n\nDEAL SUMMARY\nClosed Fairview Legal Group on InsightIQ Starter at 5 users, $4,800 ARR. No discount. Compliance-heavy sales process typical of the legal sector.\n\nDISCOVERY NOTES\nChampion is Managing Partner Claire Osei. Fairview needed a reporting platform to track matter performance and client profitability metrics across their practice groups. Their existing reporting was entirely manual, relying on exported spreadsheets from their practice management system.\n\nCLOSING NOTES\nClaire Osei was thorough in her evaluation, requesting three reference calls with existing customers in professional services. Tom Rivera arranged calls with two satisfied customers. A detailed security questionnaire was submitted and returned within a week. Deal closed in seven weeks.\n\nEXPANSION POTENTIAL\nFairview has four practice groups. Current license covers only the firm's management team. If the reporting use case proves out, expansion to practice group leads is likely. Flag for 90-day check-in.\n",
+  "metadata": {
+    "doc_type": "deal_note",
+    "customer_id": "C009",
+    "customer_name": "Fairview Legal Group",
+    "account_executive": "Tom Rivera",
+    "contract_id": "K010",
+    "date": "2023-05-01",
+    "year": 2023
+  }
+}

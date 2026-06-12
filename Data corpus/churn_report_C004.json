@@ -1,0 +1,12 @@
+{
+  "content": "CHURN REPORT\nCustomer: Crestline Manufacturing\nCustomer ID: C004\nContract ID: K004\nAccount Executive: Tom Rivera\nContract End Date: May 31, 2024\nReport Date: June 10, 2024\n\nREASON FOR CHURN\nCrestline Manufacturing chose not to renew their DataSync Pro Starter contract at the end of May 2024. The primary reason cited was low platform adoption among their factory floor managers. Despite onboarding sessions conducted in Q3 2023, fewer than 4 of the 12 licensed users were logging in regularly by Q1 2024.\n\nCONTRIBUTING FACTORS\nDuring the March 2024 renewal call, operations manager Dale Pruitt stated that the team found the interface too complex for their day-to-day workflows. They were primarily looking for a simpler scheduling and inventory tool, which DataSync Pro was not designed to replace. Tom Rivera offered a downgrade to a lower user count and a 15% discount to retain the account, but Crestline declined.\n\nA secondary factor was budget pressure. Crestline had recently invested in new CNC equipment and was trimming SaaS spend across departments. The software was seen as a non-essential line item by their CFO.\n\nCOMPETITIVE LOSS\nNo direct competitor was named. Crestline indicated they would revert to using spreadsheets and their existing ERP system for the workflows DataSync Pro had been covering.\n\nLESSONS LEARNED\nThis account may have been a poor fit from the start. The use case was narrower than our platform's strengths. Future deals in the manufacturing vertical should include a more rigorous discovery process to confirm workflow alignment before closing.\n\nFINAL ARR LOST: $6,480\n",
+  "metadata": {
+    "doc_type": "churn_report",
+    "customer_id": "C004",
+    "customer_name": "Crestline Manufacturing",
+    "account_executive": "Tom Rivera",
+    "contract_id": "K004",
+    "date": "2024-06-10",
+    "year": 2024
+  }
+}

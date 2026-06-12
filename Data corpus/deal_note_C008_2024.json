@@ -1,0 +1,12 @@
+{
+  "content": "DEAL NOTE\nCustomer: Summit Tech Partners\nCustomer ID: C008\nContract ID: K018\nAccount Executive: James Okafor\nDeal Type: Renewal + Expansion\nDate: May 1, 2024\n\nDEAL SUMMARY\nRenewed Summit Tech Partners with expansion from 25 to 30 users. No discount. New ARR: $43,200.\n\nRENEWAL NOTES\nExpansion reflects the addition of five new managed services clients added to Summit Tech's portfolio during 2023. Alex Nguyen confirmed InsightIQ is now embedded in their standard client onboarding package, which creates a durable expansion dynamic tied to their business growth.\n\nNEGOTIATION NOTES\nAlex raised a request for SSO support and a dedicated CSM during the renewal conversation. James Okafor confirmed SSO is on the product roadmap for Q4 2024. A dedicated CSM was not available at the account's current ARR tier but was noted as a goal if the account reaches $60K ARR.\n\nEXPANSION POTENTIAL\nSummit Tech is projecting 8-10 new managed services clients in 2025, which would drive another 8-10 user additions. Strong expansion account \u2014 priority for James Okafor's portfolio.\n",
+  "metadata": {
+    "doc_type": "deal_note",
+    "customer_id": "C008",
+    "customer_name": "Summit Tech Partners",
+    "account_executive": "James Okafor",
+    "contract_id": "K018",
+    "date": "2024-05-01",
+    "year": 2024
+  }
+}

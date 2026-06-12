@@ -1,0 +1,12 @@
+{
+  "content": "DEAL NOTE\nCustomer: Harmon Retail Group\nCustomer ID: C005\nContract ID: K016\nAccount Executive: James Okafor\nDeal Type: Renewal + Expansion\nDate: November 1, 2024\n\nDEAL SUMMARY\nRenewed Harmon Retail Group with expansion from 50 to 60 users. No discount. New ARR: $54,000.\n\nRENEWAL NOTES\nExpansion reflects the addition of the distribution center team, as anticipated. Sandra Harmon remains a strong champion and has referenced the platform positively in two industry events. She proactively reached out to initiate the renewal conversation in September 2024, six weeks before contract end.\n\nNEGOTIATION NOTES\nNo discount requested. Sandra did ask about volume pricing for a potential future expansion to their franchise partners, which is not something we currently offer. James Okafor flagged this to the product and pricing teams.\n\nEXPANSION POTENTIAL\nFranchise partner access could be a significant expansion opportunity. Sandra estimated 30-40 franchise locations that could benefit from a read-only access tier. Flag for 2025 roadmap conversation.\n",
+  "metadata": {
+    "doc_type": "deal_note",
+    "customer_id": "C005",
+    "customer_name": "Harmon Retail Group",
+    "account_executive": "James Okafor",
+    "contract_id": "K016",
+    "date": "2024-11-01",
+    "year": 2024
+  }
+}

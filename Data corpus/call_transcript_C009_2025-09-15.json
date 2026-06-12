@@ -1,0 +1,12 @@
+{
+  "content": "CALL TRANSCRIPT\nCustomer: Fairview Legal Group\nCustomer ID: C009\nContract ID: K019\nAccount Executive: Tom Rivera\nCall Type: Expansion Planning Call\nDate: September 15, 2025\nParticipants: Tom Rivera (AE), Claire Osei (Managing Partner), David Park (Director of Operations)\n\nTom Rivera: Claire, David \u2014 mid-year check-in. You're one of our fastest-growing accounts. I wanted to make sure we're ahead of anything you need.\n\nClaire Osei: Tom, David has been leading an internal review of how we can extend InsightIQ further into the firm. David, walk Tom through where we are.\n\nDavid Park: We've been looking at rolling the platform out to the paralegals. There are 14 of them and they're currently locked out of the dashboards. They spend a meaningful amount of time pulling data manually that InsightIQ already has.\n\nTom Rivera: That's a clean use case. 14 more users at the Enterprise rate would bring you to 44 users. I can have a proposal to you this week.\n\nClaire Osei: Before you do \u2014 the Atlanta firm I mentioned. They've been watching what we've been doing and their managing partner reached out to me last month. They're interested in a demo.\n\nTom Rivera: That's great news. I'll reach out directly and mention the referral. We have a referral credit program \u2014 I'll make sure that's factored in for you.\n\nDavid Park: One thing I want to raise. We've had occasional slowness when generating large reports \u2014 matters with a lot of associated documents. Is that a known issue?\n\nTom Rivera: It can happen with very large document sets. There's a setting in the report builder that queues large reports for background processing rather than running them live \u2014 it delivers to your inbox when ready. I'll send you the instructions after this call.\n\nDavid Park: That would help. The partners have been complaining about it.\n\nTom Rivera: I'll make sure you have it today.\n",
+  "metadata": {
+    "doc_type": "call_transcript",
+    "customer_id": "C009",
+    "customer_name": "Fairview Legal Group",
+    "account_executive": "Tom Rivera",
+    "contract_id": "K019",
+    "date": "2025-09-15",
+    "year": 2025
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "content": "CALL TRANSCRIPT\nCustomer: Crestline Manufacturing\nCustomer ID: C004\nContract ID: K004\nAccount Executive: Tom Rivera\nCall Type: Onboarding Check-in\nDate: August 14, 2023\nParticipants: Tom Rivera (AE), Dale Pruitt (Operations Manager)\n\nTom Rivera: Dale, thanks for jumping on. We're about two months post-launch. How are things going on the floor?\n\nDale Pruitt: To be honest, Tom, it's been a bit of a struggle. We ran the onboarding session with the managers but most of them have gone back to their old habits. I think maybe four out of twelve are using it regularly.\n\nTom Rivera: I appreciate you being straight with me. What's the main friction \u2014 is it the interface, the workflow, or something else?\n\nDale Pruitt: It's the interface, mostly. Our floor managers aren't desk workers. They're on the move and they find the platform too involved for what they need. They want something simple \u2014 check a schedule, log a note, move on. DataSync Pro has a lot going on.\n\nTom Rivera: That's fair feedback. Have they been using the mobile app?\n\nDale Pruitt: A few tried it but said it wasn't much simpler than the desktop. Look, I'm not trying to be difficult here. I just want to be transparent with you about where we are.\n\nTom Rivera: I appreciate that, Dale. Let me think about what we can do. There's a simplified view mode that might help \u2014 I'll set up a short session with your managers to walk through it. Can we get something on the calendar for September?\n\nDale Pruitt: Sure, we can try that. But I'll be honest \u2014 if it doesn't click for them, I'm going to have a hard time justifying the renewal in May.\n\nTom Rivera: Understood. Let's give the simplified view a shot and reassess from there.\n",
+  "metadata": {
+    "doc_type": "call_transcript",
+    "customer_id": "C004",
+    "customer_name": "Crestline Manufacturing",
+    "account_executive": "Tom Rivera",
+    "contract_id": "K004",
+    "date": "2023-08-14",
+    "year": 2023
+  }
+}

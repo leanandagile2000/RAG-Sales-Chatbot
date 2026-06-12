@@ -1,0 +1,13 @@
+{
+  "content": "QBR SUMMARY\nCustomer: Meridian Health Systems\nCustomer ID: C001\nContract ID: K021\nAccount Executive: Sarah Chen\nPeriod: H1 2025 (January \u2013 June 2025)\nMeeting Date: July 15, 2025\nAttendees: Sarah Chen (AE), Dr. Linda Forsythe (Director of Clinical Operations), Dr. Marcus Hill (CMO)\n\nBUSINESS PERFORMANCE\nMeridian reached record patient volumes across all three facilities in H1 2025. Site selection for the fourth facility is complete \u2014 groundbreaking expected Q1 2026. The clinical operations team grew to 45 staff members.\n\nPLATFORM USAGE\n40 of 40 licensed users active. Weekly report generation at 97 reports per week. The EHR integration is processing an average of 2,400 automated data syncs per week across all three facilities, replacing entirely the manual export process.\n\nKEY DISCUSSION POINTS\n- Dr. Hill presented InsightIQ as a case study internally at Meridian's annual operations review \u2014 described it as a model for technology adoption across the organization\n- Dr. Forsythe raised a request for a training program for new clinical staff \u2014 the team is growing and onboarding new users takes time without a structured program. Sarah Chen committed to working with the customer success team on a scalable onboarding resource\n- Fourth facility planning: 8-10 additional users expected when the facility opens in 2026 \u2014 to be included in 2026 renewal\n- Dr. Hill raised interest in InsightIQ for the administrative and billing teams \u2014 estimated 12-15 potential additional users outside clinical operations\n\nSATISFACTION RATING: 5/5\nDr. Hill: \"InsightIQ is now part of how we think about running this organization. We're looking at expanding it beyond clinical operations for the first time.\"\n\nACTION ITEMS\n- Sarah Chen to coordinate with customer success team on scalable new user onboarding resource by September 2025\n- Administrative and billing team expansion scoping call to be arranged for Q4 2025\n- Fourth facility user expansion to be factored into 2026 renewal proposal\n\nNEXT QBR: January 2026\n",
+  "metadata": {
+    "doc_type": "qbr_summary",
+    "customer_id": "C001",
+    "customer_name": "Meridian Health Systems",
+    "account_executive": "Sarah Chen",
+    "contract_id": "K021",
+    "date": "2025-07-15",
+    "year": 2025,
+    "period": "H1 2025"
+  }
+}

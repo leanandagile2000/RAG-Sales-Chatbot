@@ -1,0 +1,12 @@
+{
+  "content": "DEAL NOTE\nCustomer: NorthBridge Consulting\nCustomer ID: C010\nContract ID: K020\nAccount Executive: Sarah Chen\nDeal Type: Renewal + Upgrade\nDate: March 1, 2024\n\nDEAL SUMMARY\nRenewed NorthBridge Consulting and upgraded from DataSync Pro Starter to Enterprise, expanding from 10 to 50 users. No discount. New ARR: $45,000.\n\nRENEWAL NOTES\nExpansion reflects a company-wide rollout decision made by Patricia Wells in Q4 2023. NorthBridge added 12 new consultants in 2023 and decided to standardize DataSync Pro across the entire consulting team rather than maintain a tiered access model.\n\nNEGOTIATION NOTES\nNo discount requested. Patricia Wells stated the platform had exceeded expectations and she wanted to move quickly. The renewal conversation took two calls and nine days from initiation to signature \u2014 the fastest renewal in Sarah Chen's portfolio this cycle.\n\nEXPANSION POTENTIAL\nFull penetration of the consulting team achieved. Future growth will be headcount-driven. Patricia also mentioned exploring DataSync Pro for a new government practice they are launching in Q2 2024, which may have specific compliance requirements worth exploring.\n",
+  "metadata": {
+    "doc_type": "deal_note",
+    "customer_id": "C010",
+    "customer_name": "NorthBridge Consulting",
+    "account_executive": "Sarah Chen",
+    "contract_id": "K020",
+    "date": "2024-03-01",
+    "year": 2024
+  }
+}

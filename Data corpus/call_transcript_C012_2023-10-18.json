@@ -1,0 +1,12 @@
+{
+  "content": "CALL TRANSCRIPT\nCustomer: Castlepoint Media\nCustomer ID: C012\nContract ID: K012\nAccount Executive: James Okafor\nCall Type: Onboarding Check-in\nDate: October 18, 2023\nParticipants: James Okafor (AE), Diane Tran (Head of Marketing)\n\nJames Okafor: Diane, two months in. How is the editorial team using InsightIQ?\n\nDiane Tran: The content performance dashboards are working well for the editorial team. They can see article performance without having to ask the data team for reports, which has been a positive change.\n\nJames Okafor: Great. Any requests coming from the team?\n\nDiane Tran: One thing that's come up \u2014 we've been shifting more of our focus toward paid social campaigns and we need to track performance data from Facebook and Instagram. Does InsightIQ have native social media integrations?\n\nJames Okafor: We have API access that can pull in data from third-party sources, including social platforms. It requires some technical configuration on your end to set up.\n\nDiane Tran: We don't really have technical resources to manage that. Our team is editorial and marketing \u2014 we're not developers.\n\nJames Okafor: That's a fair constraint. The native social integrations you're describing aren't in our current feature set \u2014 it's more of a content analytics focus than a social analytics focus. I want to be upfront about that rather than oversell what the API workaround can realistically deliver without technical support.\n\nDiane Tran: I appreciate you being honest. We're only two months in so let's see how the editorial use case develops. But I want to flag that if our focus continues to shift toward social, we may need to evaluate other options.\n\nJames Okafor: Understood. I'll note it on our end and keep you informed if any social integration capabilities come onto the roadmap.\n",
+  "metadata": {
+    "doc_type": "call_transcript",
+    "customer_id": "C012",
+    "customer_name": "Castlepoint Media",
+    "account_executive": "James Okafor",
+    "contract_id": "K012",
+    "date": "2023-10-18",
+    "year": 2023
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "content": "QBR SUMMARY\nCustomer: Summit Tech Partners\nCustomer ID: C008\nContract ID: K018\nAccount Executive: James Okafor\nPeriod: H1 2024 (January \u2013 June 2024)\nMeeting Date: July 22, 2024\nAttendees: James Okafor (AE), Alex Nguyen (CTO), Natalie Brooks (Head of Client Services)\n\nBUSINESS PERFORMANCE\nSummit Tech added 5 new managed services clients in H1 2024, bringing their total to 31 clients. Revenue growth continues at 24% year over year. The client services team expanded to 11 staff.\n\nPLATFORM USAGE\n30 of 30 licensed users active. Weekly report generation at 118 reports per week. White-label dashboards deployed to all 31 managed services clients. Automated delivery running for 28 of 31 clients.\n\nKEY DISCUSSION POINTS\n- SSO shipped in Q2 2024 as committed \u2014 Alex Nguyen confirmed both enterprise clients requiring SSO have completed their compliance review and are now fully active. Described SSO delivery as \"overdue but appreciated\"\n- Natalie Brooks reported that InsightIQ is now referenced in Summit Tech's sales materials as a differentiator \u2014 two new client wins in Q2 cited the reporting capability as a factor in choosing Summit Tech over competitors\n- ARR at renewal was $43,200 \u2014 still below the $60K dedicated CSM threshold. James Okafor flagged that the account is projected to cross $60K at the next renewal in May 2025\n- Alex Nguyen raised a new request: a client-facing self-serve portal where Summit Tech's enterprise clients could run their own ad hoc reports without involving Summit Tech staff\n\nSATISFACTION RATING: 4.5/5\nAlex Nguyen: \"SSO is done, finally. The self-serve portal idea is the next thing that would genuinely change how we serve clients.\"\n\nACTION ITEMS\n- James Okafor to research self-serve client portal feasibility and bring findings to H2 QBR\n- Track toward $60K ARR threshold \u2014 dedicated CSM assignment expected at May 2025 renewal\n- Natalie Brooks to share Summit Tech sales materials referencing InsightIQ for use as a case study reference\n\nNEXT QBR: January 2025\n",
+  "metadata": {
+    "doc_type": "qbr_summary",
+    "customer_id": "C008",
+    "customer_name": "Summit Tech Partners",
+    "account_executive": "James Okafor",
+    "contract_id": "K018",
+    "date": "2024-07-22",
+    "year": 2024,
+    "period": "H1 2024"
+  }
+}

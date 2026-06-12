@@ -1,0 +1,12 @@
+{
+  "content": "CALL TRANSCRIPT\nCustomer: Redstone Energy\nCustomer ID: C007\nContract ID: K008\nAccount Executive: Sarah Chen\nCall Type: Mid-Year Check-in\nDate: March 12, 2024\nParticipants: Sarah Chen (AE), Paula Graves (IT Director)\n\nSarah Chen: Paula, good to connect. We're about six months into the second year. How's the team finding the platform?\n\nPaula Graves: Honestly, Sarah, things have been a bit unsettled here. We had a leadership change in IT \u2014 we have a new CTO who joined in January, Marcus Webb. He's been doing a full audit of our software stack.\n\nSarah Chen: I appreciate the heads up. Has your team's day-to-day use of DataSync Pro been affected?\n\nPaula Graves: Not yet. My team is still using it and it's been fine. But I'll be transparent with you \u2014 Marcus came from a company that used FieldOps Suite and he's been asking questions about consolidating onto platforms he's already familiar with.\n\nSarah Chen: I see. Would it be helpful if I requested a meeting with Marcus directly? I'd like to make the case for DataSync Pro and understand his concerns firsthand.\n\nPaula Graves: I think that would be a good idea. I'll be honest, I can advocate for the platform but I don't have the budget authority anymore \u2014 Marcus controls that now. Let me broker an introduction.\n\nSarah Chen: I'd really appreciate that, Paula. Can you make that happen in the next two weeks?\n\nPaula Graves: I'll try. No guarantees on his calendar but I'll do my best.\n",
+  "metadata": {
+    "doc_type": "call_transcript",
+    "customer_id": "C007",
+    "customer_name": "Redstone Energy",
+    "account_executive": "Sarah Chen",
+    "contract_id": "K008",
+    "date": "2024-03-12",
+    "year": 2024
+  }
+}

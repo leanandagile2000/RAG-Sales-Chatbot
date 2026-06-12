@@ -1,0 +1,12 @@
+{
+  "content": "DEAL NOTE\nCustomer: Apex Logistics Co.\nCustomer ID: C002\nContract ID: K002\nAccount Executive: James Okafor\nDeal Type: New Business\nDate: January 15, 2023\n\nDEAL SUMMARY\nClosed Apex Logistics Co. on DataSync Pro Starter at 10 users, $6,000 ARR. No discount. Relatively fast sales cycle of three weeks from first demo to signed contract.\n\nDISCOVERY NOTES\nPrimary contact is VP of Operations, Brian Calloway. Apex was struggling with version control on their shipment documentation \u2014 multiple teams were working off different versions of the same files. DataSync Pro's real-time sync and audit trail features directly addressed this pain point.\n\nCLOSING NOTES\nNo significant objections during the sales process. Brian Calloway had budget authority and moved quickly. The Starter tier was appropriate for their initial use case though the account has clear expansion potential as they onboard more regional logistics coordinators.\n\nEXPANSION POTENTIAL\nApex has 6 regional offices. Currently only the central operations team is licensed. Flag for expansion in Q3 2023 once initial adoption is confirmed.\n",
+  "metadata": {
+    "doc_type": "deal_note",
+    "customer_id": "C002",
+    "customer_name": "Apex Logistics Co.",
+    "account_executive": "James Okafor",
+    "contract_id": "K002",
+    "date": "2023-01-15",
+    "year": 2023
+  }
+}

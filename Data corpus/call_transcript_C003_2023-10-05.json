@@ -1,0 +1,12 @@
+{
+  "content": "CALL TRANSCRIPT\nCustomer: Bluewater Financial\nCustomer ID: C003\nContract ID: K003\nAccount Executive: Sarah Chen\nCall Type: 90-Day Check-in\nDate: October 5, 2023\nParticipants: Sarah Chen (AE), Marcus Webb (Head of Financial Analytics), Priya Nair (Senior Analyst)\n\nSarah Chen: Marcus, Priya \u2014 thanks for your time. We're at the 90-day mark and I wanted to get a read on how the pilot is going with the analytics team.\n\nMarcus Webb: It's going well. Priya's team has been building out the regulatory reporting templates and we've seen real time savings already.\n\nPriya Nair: We cut our monthly reporting prep time by about 30 percent. The scheduled report delivery has been particularly useful \u2014 we used to have a manual step every month to compile and distribute reports, and now that runs automatically.\n\nSarah Chen: That's great to hear. Any friction points?\n\nMarcus Webb: The data residency controls work as expected, which was our main concern. One thing we'd like is more granular permission controls within a single dashboard \u2014 right now it's view or edit, and we need something in between for our junior analysts.\n\nSarah Chen: That's useful feedback. I'll log it as a feature request. It's come up from a couple of other customers in financial services so it may have some momentum on the roadmap.\n\nMarcus Webb: Good to know. We're planning to present the pilot results to the CRO next month. If that goes well, we'll be looking at expanding to the risk team \u2014 probably 15 to 20 additional users.\n\nSarah Chen: Exciting. Let's plan to reconnect after that presentation. I can have a proposal ready to go so you're not waiting if the CRO gives the green light.\n",
+  "metadata": {
+    "doc_type": "call_transcript",
+    "customer_id": "C003",
+    "customer_name": "Bluewater Financial",
+    "account_executive": "Sarah Chen",
+    "contract_id": "K003",
+    "date": "2023-10-05",
+    "year": 2023
+  }
+}

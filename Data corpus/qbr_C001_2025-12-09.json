@@ -1,0 +1,13 @@
+{
+  "content": "QBR SUMMARY\nCustomer: Meridian Health Systems\nCustomer ID: C001\nContract ID: K021\nAccount Executive: Sarah Chen\nPeriod: H2 2025 (July \u2013 December 2025)\nMeeting Date: December 9, 2025\nAttendees: Sarah Chen (AE), Dr. Linda Forsythe (Director of Clinical Operations), Dr. Marcus Hill (CMO), Kevin Marsh (IT Coordinator)\n\nBUSINESS PERFORMANCE\nMeridian closed 2025 with all three facilities at full capacity and fourth facility groundbreaking confirmed for February 2026. The organization has grown to 280 staff across all locations, up from 220 at the start of 2023.\n\nPLATFORM USAGE\n40 of 40 licensed users active. Weekly report generation at 104 reports per week \u2014 crossing 100 for the first time. EHR integration processing 2,900 automated syncs per week. 31 custom dashboards in active use.\n\nKEY DISCUSSION POINTS\n- Scalable onboarding resource delivered in October 2025 \u2014 Dr. Forsythe reported new staff are now onboarded in 2 days versus the previous 5-7 days\n- Administrative and billing team scoping completed in November 2025 \u2014 14 users identified as candidates for InsightIQ access. Proposal to be included in 2026 renewal\n- Kevin Marsh confirmed that the tamper-evident audit log has been cited in two accreditation reviews as evidence of data governance maturity\n- Fourth facility will require 10 users at launch \u2014 Dr. Forsythe estimates Q2 2026 full staffing\n\nSATISFACTION RATING: 5/5\nDr. Forsythe: \"Three years in and we're still finding new ways this platform supports the organization. That's not something I expected when we signed in 2023.\"\n\nACTION ITEMS\n- Sarah Chen to prepare 2026 renewal proposal: 40 existing users + 14 admin/billing + 10 fourth facility = 64 users\n- Kevin Marsh to provide accreditation audit log citations to Sarah Chen for case study development\n- Fourth facility onboarding plan to be drafted by March 2026\n\nNEXT QBR: July 2026\n",
+  "metadata": {
+    "doc_type": "qbr_summary",
+    "customer_id": "C001",
+    "customer_name": "Meridian Health Systems",
+    "account_executive": "Sarah Chen",
+    "contract_id": "K021",
+    "date": "2025-12-09",
+    "year": 2025,
+    "period": "H2 2025"
+  }
+}

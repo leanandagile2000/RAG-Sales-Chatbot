@@ -1,0 +1,12 @@
+{
+  "content": "DEAL NOTE\nCustomer: Summit Tech Partners\nCustomer ID: C008\nContract ID: K006\nAccount Executive: James Okafor\nDeal Type: New Business\nDate: May 1, 2023\n\nDEAL SUMMARY\nClosed Summit Tech Partners on InsightIQ Enterprise at 25 users, $36,000 ARR. No discount. Fastest enterprise close of the year at 18 days from first demo to signature.\n\nDISCOVERY NOTES\nChampion is CTO Alex Nguyen. Summit Tech provides managed IT services and needed an analytics platform to generate performance reports for their enterprise clients. InsightIQ's white-labeling capability and multi-tenant dashboard support were unique requirements that competitors could not meet.\n\nCLOSING NOTES\nAlex Nguyen ran a streamlined evaluation with clear criteria. InsightIQ was the only platform that met all three of his non-negotiable requirements: white-label branding, multi-tenant data isolation, and API access for automated report delivery. No significant objections. Legal review was completed internally.\n\nEXPANSION POTENTIAL\nSummit Tech is actively growing its managed services client base. As they add new enterprise clients, they will need to add user licenses. The account has strong organic expansion potential \u2014 flag for quarterly check-ins.\n",
+  "metadata": {
+    "doc_type": "deal_note",
+    "customer_id": "C008",
+    "customer_name": "Summit Tech Partners",
+    "account_executive": "James Okafor",
+    "contract_id": "K006",
+    "date": "2023-05-01",
+    "year": 2023
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "content": "CALL TRANSCRIPT\nCustomer: Summit Tech Partners\nCustomer ID: C008\nContract ID: K006\nAccount Executive: James Okafor\nCall Type: Quarterly Check-in\nDate: August 8, 2023\nParticipants: James Okafor (AE), Alex Nguyen (CTO)\n\nJames Okafor: Alex, good to hear from you. You're one of our smoothest onboards \u2014 your team was live in under two weeks.\n\nAlex Nguyen: We had strong internal motivation. Our clients were waiting for the reporting upgrade. The white-label dashboards have been well received \u2014 a couple of clients have specifically complimented the professional look of the reports, which reflects well on us.\n\nJames Okafor: That's great to hear. Any feature gaps surfacing as you onboard more client accounts?\n\nAlex Nguyen: Two things. First, SSO \u2014 we have enterprise clients who require SSO and right now we're managing credentials manually, which doesn't scale. Second, we'd benefit from a dedicated CSM as we grow. Right now it's just me handling any questions from your end, and as we expand I'd like a named contact.\n\nJames Okafor: On SSO \u2014 it's on the roadmap. I'll get a more specific timeline from our product team. On the CSM \u2014 we typically assign dedicated CSMs at accounts over $60K ARR. You're at $36K right now but growing. Let's revisit that conversation when you're closer to that threshold.\n\nAlex Nguyen: Fair. We expect to add 8 to 10 new managed services clients in the next 12 months, so I think we'll get there.\n\nJames Okafor: I'll be tracking it. I want to make sure you have the support you need as you scale.\n",
+  "metadata": {
+    "doc_type": "call_transcript",
+    "customer_id": "C008",
+    "customer_name": "Summit Tech Partners",
+    "account_executive": "James Okafor",
+    "contract_id": "K006",
+    "date": "2023-08-08",
+    "year": 2023
+  }
+}

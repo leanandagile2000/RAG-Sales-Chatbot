@@ -1,0 +1,12 @@
+{
+  "content": "DEAL NOTE\nCustomer: Harmon Retail Group\nCustomer ID: C005\nContract ID: K005\nAccount Executive: James Okafor\nDeal Type: New Business\nDate: November 1, 2023\n\nDEAL SUMMARY\nClosed Harmon Retail Group on DataSync Pro Enterprise at 50 users, $45,000 ARR. No discount applied. Highly competitive deal, evaluated against three other platforms.\n\nDISCOVERY NOTES\nChampion is Sandra Harmon, COO and daughter of the company founder. Harmon Retail operates 22 store locations and needed a centralized platform for their store managers to share inventory documentation and operational procedures. DataSync Pro's folder-level permissions and mobile app were critical requirements.\n\nCLOSING NOTES\nSandra Harmon was a decisive buyer once she saw the mobile app in action during the demo. She noted their previous tool had no mobile support, which was a constant friction point for store managers working on the floor. Deal closed in five weeks.\n\nEXPANSION POTENTIAL\nSandra mentioned interest in rolling the platform out to their distribution center team, which would add approximately 15-20 users. Flag for Q2 2024.\n",
+  "metadata": {
+    "doc_type": "deal_note",
+    "customer_id": "C005",
+    "customer_name": "Harmon Retail Group",
+    "account_executive": "James Okafor",
+    "contract_id": "K005",
+    "date": "2023-11-01",
+    "year": 2023
+  }
+}

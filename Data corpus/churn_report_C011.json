@@ -1,0 +1,12 @@
+{
+  "content": "CHURN REPORT\nCustomer: Irongate Construction\nCustomer ID: C011\nContract ID: K011\nAccount Executive: Tom Rivera\nContract End Date: March 31, 2024\nReport Date: April 8, 2024\n\nREASON FOR CHURN\nIrongate Construction did not renew their DataSync Pro Starter contract after one year. The account was flagged as at-risk as early as November 2023 following consistently low login activity and a missed QBR in Q4 2023.\n\nCONTRIBUTING FACTORS\nIrongate's primary use case was document sharing across job sites. They had hoped DataSync Pro would replace their existing paper-based handoff process, but the mobile experience did not meet the needs of their field crews who were working in low-connectivity environments. This limitation was raised on a call in October 2023 by their office manager, Renee Kowalski.\n\nTom Rivera escalated the mobile connectivity concern to the product team in November 2023 but no roadmap commitment was available in time for the renewal conversation. Irongate's decision-maker, VP of Operations Greg Halloran, indicated he had been shopping alternatives since December.\n\nNo discount or concession was offered during the renewal conversation as the account size ($10,800 ARR) did not meet the threshold for retention investment per internal policy.\n\nCOMPETITIVE LOSS\nLost to Fieldlink, a construction-specific mobile platform with offline capabilities.\n\nLESSONS LEARNED\nVertical-specific feature gaps are a meaningful churn risk in industries with field-based workforces. Consider flagging accounts in construction, utilities, and logistics for early product fit reviews.\n\nFINAL ARR LOST: $10,800\n",
+  "metadata": {
+    "doc_type": "churn_report",
+    "customer_id": "C011",
+    "customer_name": "Irongate Construction",
+    "account_executive": "Tom Rivera",
+    "contract_id": "K011",
+    "date": "2024-04-08",
+    "year": 2024
+  }
+}

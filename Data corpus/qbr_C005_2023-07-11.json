@@ -1,0 +1,13 @@
+{
+  "content": "QBR SUMMARY\nCustomer: Harmon Retail Group\nCustomer ID: C005\nContract ID: K005\nAccount Executive: James Okafor\nPeriod: H1 2023 (January \u2013 June 2023)\nMeeting Date: July 11, 2023\nAttendees: James Okafor (AE), Sandra Harmon (COO), Darius Moore (Regional Manager West)\n\nBUSINESS PERFORMANCE\nHarmon Retail opened 2 new store locations in Q1 2023, bringing their total to 22 stores. Revenue for H1 was up 8% year over year, driven primarily by their West Coast locations. Sandra Harmon noted they are targeting 3 additional openings in H2.\n\nPLATFORM USAGE\nDataSync Pro was launched in November 2023 and H1 2023 represents pre-launch period. This QBR was held proactively to align on onboarding readiness ahead of the November go-live date. Platform is not yet live.\n\nKEY DISCUSSION POINTS\n- Sandra Harmon confirmed the primary use case: standardizing operational procedures and inventory documentation across all 22 store locations\n- Mobile app capability was discussed as a critical requirement \u2014 store managers work on the floor and need mobile access\n- James Okafor walked through the onboarding timeline: IT configuration in September, manager training in October, go-live in November\n- Data migration from the legacy SharePoint environment will be handled by Harmon's IT team with support from our implementation team\n\nACTION ITEMS\n- James Okafor to provide onboarding project plan by July 25\n- Harmon IT team to complete SSO configuration by September 30\n- Manager training sessions to be scheduled for October \u2014 Darius Moore to coordinate with store managers\n\nNEXT QBR: January 2024\n",
+  "metadata": {
+    "doc_type": "qbr_summary",
+    "customer_id": "C005",
+    "customer_name": "Harmon Retail Group",
+    "account_executive": "James Okafor",
+    "contract_id": "K005",
+    "date": "2023-07-11",
+    "year": 2023,
+    "period": "H1 2023"
+  }
+}

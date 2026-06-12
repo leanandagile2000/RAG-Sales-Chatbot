@@ -1,0 +1,12 @@
+{
+  "content": "CALL TRANSCRIPT\nCustomer: Meridian Health Systems\nCustomer ID: C001\nContract ID: K001\nAccount Executive: Sarah Chen\nCall Type: Onboarding Check-in\nDate: May 15, 2023\nParticipants: Sarah Chen (AE), Dr. Linda Forsythe (Director of Clinical Operations), Kevin Marsh (IT Coordinator)\n\nSarah Chen: Thanks for making time, Linda, Kevin. We're about two and a half months in \u2014 I wanted to check in on how the rollout is going.\n\nDr. Forsythe: Honestly, better than I expected. The clinical operations team has taken to it well. We've got about 22 of the 30 users actively logging in, which for a new tool rollout in healthcare is pretty good.\n\nSarah Chen: That's great to hear. Kevin, anything on the IT side worth flagging?\n\nKevin Marsh: The SSO integration took a bit longer than we planned \u2014 we had some issues with our identity provider configuration. But we worked through it with your support team and it's been stable for about three weeks now.\n\nSarah Chen: Good to hear that got resolved. Linda, any feedback from the clinical team on the dashboard builder?\n\nDr. Forsythe: They love the self-serve aspect. Before this, every report request went through IT, which meant a two-week wait. Now the team leads are building their own views. That's been a real shift. The one thing I'd flag is the export to PDF functionality \u2014 a couple of the reports don't render cleanly when exported. It's not a blocker but it's come up a few times.\n\nSarah Chen: I'll log that with our product team and follow up with a timeline. Anything else on your radar before the six-month mark?\n\nDr. Forsythe: We have a third facility coming online in early 2024. I'm going to want to talk about adding users ahead of that. Probably 10 to 12 more.\n\nSarah Chen: Absolutely, let's plan for that conversation in Q4. I'll put something in the calendar for October.\n",
+  "metadata": {
+    "doc_type": "call_transcript",
+    "customer_id": "C001",
+    "customer_name": "Meridian Health Systems",
+    "account_executive": "Sarah Chen",
+    "contract_id": "K001",
+    "date": "2023-05-15",
+    "year": 2023
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "content": "DEAL NOTE\nCustomer: NorthBridge Consulting\nCustomer ID: C010\nContract ID: K007\nAccount Executive: Sarah Chen\nDeal Type: New Business\nDate: March 1, 2023\n\nDEAL SUMMARY\nClosed NorthBridge Consulting on DataSync Pro Starter at 10 users, $5,700 ARR after a 5% discount. Competitive deal against a well-established incumbent.\n\nDISCOVERY NOTES\nChampion is COO Patricia Wells. NorthBridge was using a legacy document management system that lacked real-time collaboration features. Their consultants were frequently working across client sites and needed reliable sync across devices and locations. DataSync Pro's offline mode and conflict resolution features were key differentiators.\n\nCLOSING NOTES\nThe incumbent had a 5-year relationship with NorthBridge. Sarah Chen overcame this by demonstrating a side-by-side comparison of offline sync performance. The 5% discount was offered to reduce the switching cost risk perception. Patricia Wells made the final call after two rounds of internal review.\n\nEXPANSION POTENTIAL\nNorthBridge has a consulting team of 45. Current license covers only the senior consultants. Strong expansion potential once the team sees the platform in action. Flag for expansion conversation at 6 months.\n",
+  "metadata": {
+    "doc_type": "deal_note",
+    "customer_id": "C010",
+    "customer_name": "NorthBridge Consulting",
+    "account_executive": "Sarah Chen",
+    "contract_id": "K007",
+    "date": "2023-03-01",
+    "year": 2023
+  }
+}

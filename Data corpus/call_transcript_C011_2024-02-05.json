@@ -1,0 +1,12 @@
+{
+  "content": "CALL TRANSCRIPT\nCustomer: Irongate Construction\nCustomer ID: C011\nContract ID: K011\nAccount Executive: Tom Rivera\nCall Type: Renewal Discussion\nDate: February 5, 2024\nParticipants: Tom Rivera (AE), Greg Halloran (VP of Operations)\n\nTom Rivera: Greg, thanks for getting on. Renewal is coming up end of March. Wanted to have a frank conversation about where things stand.\n\nGreg Halloran: Tom, I'll be straight with you. The office team uses it but the field crew issue never got resolved. Offline mode still isn't there and the pre-download workaround didn't stick. The field supervisors stopped trying after a month.\n\nTom Rivera: I understand, and I know that was the core use case for you.\n\nGreg Halloran: I've been looking at other options. There's a platform called Fieldlink that was built specifically for construction \u2014 it has offline mode built in and a simpler interface for field workers. We're going to trial it.\n\nTom Rivera: Is there anything I can do to keep the account? I can offer a significant discount on the renewal.\n\nGreg Halloran: Tom, honestly at this point it's not about the price. The product doesn't fit our field use case and I can't justify renewing for the office team alone at this price point when a better-fit option exists. I appreciate everything you've done \u2014 you've been responsive and honest. It's just not the right tool for how we work.\n\nTom Rivera: I respect that, Greg. Let's make sure the offboarding is smooth. No hard feelings.\n",
+  "metadata": {
+    "doc_type": "call_transcript",
+    "customer_id": "C011",
+    "customer_name": "Irongate Construction",
+    "account_executive": "Tom Rivera",
+    "contract_id": "K011",
+    "date": "2024-02-05",
+    "year": 2024
+  }
+}

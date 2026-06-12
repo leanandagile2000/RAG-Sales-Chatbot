@@ -1,0 +1,13 @@
+{
+  "content": "QBR SUMMARY\nCustomer: Summit Tech Partners\nCustomer ID: C008\nContract ID: K024\nAccount Executive: James Okafor\nPeriod: H1 2025 (January \u2013 June 2025)\nMeeting Date: July 21, 2025\nAttendees: James Okafor (AE), Alex Nguyen (CTO), Natalie Brooks (Head of Client Services), Maria Santos (Dedicated CSM, assigned May 2025)\n\nBUSINESS PERFORMANCE\nSummit Tech reached 42 managed services clients in H1 2025. Revenue is up 26% year over year. The company made its first strategic hire at the VP level \u2014 a VP of Enterprise Sales \u2014 signaling ambitions to move upmarket.\n\nPLATFORM USAGE\n35 of 35 licensed users active. Weekly report generation at 162 reports per week. White-label dashboards active for all 42 clients. Automated delivery at 96%.\n\nKEY DISCUSSION POINTS\n- Maria Santos introduced as Summit Tech's dedicated CSM, assigned at the May 2025 renewal when ARR crossed the $60K threshold. Alex Nguyen expressed strong satisfaction with this development \u2014 \"This is what we've been asking for since 2023.\"\n- SSO timeout issue from December 2024 was fully resolved in February 2025 \u2014 Alex Nguyen confirmed no further incidents\n- New VP of Enterprise Sales, Jordan Kim, has asked about InsightIQ's capability to support Fortune 500 clients \u2014 specific questions around data volume limits and SLA guarantees. James Okafor to arrange a technical briefing with Jordan Kim.\n- Shared dashboard workaround deployed to 14 clients \u2014 Natalie Brooks reported strong feedback, with 3 clients asking if a full self-serve portal is coming\n\nSATISFACTION RATING: 5/5\nAlex Nguyen: \"Having Maria as our CSM has changed the relationship. We're no longer just an account \u2014 we're a partner. That matters.\"\n\nACTION ITEMS\n- James Okafor and Maria Santos to arrange technical briefing with Jordan Kim re: enterprise client requirements by August 2025\n- Maria Santos to conduct quarterly check-ins with Natalie Brooks independently of AE-led QBRs going forward\n- Monitor expansion toward 45 users by year end per Alex Nguyen's projection\n\nNEXT QBR: January 2026\n",
+  "metadata": {
+    "doc_type": "qbr_summary",
+    "customer_id": "C008",
+    "customer_name": "Summit Tech Partners",
+    "account_executive": "James Okafor",
+    "contract_id": "K024",
+    "date": "2025-07-21",
+    "year": 2025,
+    "period": "H1 2025"
+  }
+}

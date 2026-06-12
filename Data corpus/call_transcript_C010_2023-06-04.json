@@ -1,0 +1,12 @@
+{
+  "content": "CALL TRANSCRIPT\nCustomer: NorthBridge Consulting\nCustomer ID: C010\nContract ID: K007\nAccount Executive: Sarah Chen\nCall Type: 90-Day Check-in\nDate: June 4, 2023\nParticipants: Sarah Chen (AE), Patricia Wells (COO)\n\nSarah Chen: Patricia, three months in \u2014 how has the consulting team been finding it?\n\nPatricia Wells: Better than expected, honestly. The offline sync was the main reason we switched and it's delivered. Our consultants travel constantly and the complaints about losing work or working off stale documents have basically stopped.\n\nSarah Chen: Really glad to hear that. How's adoption tracking?\n\nPatricia Wells: 9 of 10 users are active. The tenth is a senior consultant who's semi-retired and works maybe two days a week. Not a concern.\n\nSarah Chen: Any friction?\n\nPatricia Wells: Nothing major. A couple of consultants asked about integrating with our project management tool \u2014 we use Asana. Is there a native integration?\n\nSarah Chen: There's an API that allows Asana to be connected but no native one-click integration yet. I'll flag it as a request \u2014 I know it's come up before and it would be useful for a lot of our consulting clients.\n\nPatricia Wells: Worth flagging. It's not blocking anything today but it would be a nice to have.\n\nSarah Chen: Noted. Patricia, I want to plant a seed \u2014 you mentioned you have 45 consultants. We're only covering 10 today. As the team sees the value, is a broader rollout something you'd consider?\n\nPatricia Wells: Absolutely. If the senior consultants keep singing its praises, the conversation will happen naturally. Let's revisit in Q4.\n",
+  "metadata": {
+    "doc_type": "call_transcript",
+    "customer_id": "C010",
+    "customer_name": "NorthBridge Consulting",
+    "account_executive": "Sarah Chen",
+    "contract_id": "K007",
+    "date": "2023-06-04",
+    "year": 2023
+  }
+}

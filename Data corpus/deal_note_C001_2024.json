@@ -1,0 +1,12 @@
+{
+  "content": "DEAL NOTE\nCustomer: Meridian Health Systems\nCustomer ID: C001\nContract ID: K013\nAccount Executive: Sarah Chen\nDeal Type: Renewal + Expansion\nDate: March 1, 2024\n\nDEAL SUMMARY\nRenewed Meridian Health Systems on InsightIQ Enterprise with an expansion from 30 to 35 users. Applied 5% discount to recognize the multi-year relationship. New ARR: $47,880.\n\nRENEWAL NOTES\nRenewal was straightforward. Dr. Forsythe remains the champion and expressed strong satisfaction with the platform. The expanded user count reflects the addition of their third regional facility coming online in Q1 2024, as anticipated at deal close.\n\nNEGOTIATION NOTES\nMeridian's procurement team pushed for a 10% discount citing competitive quotes from two vendors. Sarah Chen held firm at 5%, citing the account's growth trajectory and upcoming enterprise features on the roadmap. Procurement accepted after a one-week back and forth.\n\nEXPANSION POTENTIAL\nDr. Forsythe mentioned interest in InsightIQ's upcoming API integration module for connecting their EHR system. Flag for upsell conversation once the feature is GA, expected Q3 2024.\n",
+  "metadata": {
+    "doc_type": "deal_note",
+    "customer_id": "C001",
+    "customer_name": "Meridian Health Systems",
+    "account_executive": "Sarah Chen",
+    "contract_id": "K013",
+    "date": "2024-03-01",
+    "year": 2024
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "content": "CALL TRANSCRIPT\nCustomer: Summit Tech Partners\nCustomer ID: C008\nContract ID: K018\nAccount Executive: James Okafor\nCall Type: Annual Business Review\nDate: February 18, 2025\nParticipants: James Okafor (AE), Alex Nguyen (CTO), Natalie Brooks (Head of Client Services)\n\nJames Okafor: Alex, Natalie \u2014 great to have you both. You've been one of our best expansion stories over the past two years. I wanted to do a deeper review as we head into 2025.\n\nAlex Nguyen: Happy to. Natalie, why don't you start with the client feedback side.\n\nNatalie Brooks: Our clients love the branded reports. We've standardized the InsightIQ dashboard as part of our monthly service delivery and it's become an expected deliverable. Two clients have specifically said it's one of the reasons they renewed with us.\n\nJames Okafor: That's a strong signal. Alex, where are you on SSO? I know that's been on your list.\n\nAlex Nguyen: Still waiting. It's been on your roadmap for over a year now. Do you have a firm date?\n\nJames Okafor: I pushed on this before our call. Q2 2025 is the committed date. I'll send you the product update in writing after this call.\n\nAlex Nguyen: I need it in writing before we commit to another year. It's a blocker for two of our enterprise clients.\n\nJames Okafor: Understood. You'll have it today. On the expansion side \u2014 you mentioned adding clients in 2025. Where are you now at 35 users?\n\nAlex Nguyen: We expect to hit 45 users by year end based on our pipeline.\n\nJames Okafor: Let's build that into the renewal conversation. I'll put a proposal together that accounts for growth so you're not coming back mid-year for a contract amendment.\n\nAlex Nguyen: Good thinking. Send the SSO confirmation and we'll get the renewal moving.\n",
+  "metadata": {
+    "doc_type": "call_transcript",
+    "customer_id": "C008",
+    "customer_name": "Summit Tech Partners",
+    "account_executive": "James Okafor",
+    "contract_id": "K018",
+    "date": "2025-02-18",
+    "year": 2025
+  }
+}

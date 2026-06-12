@@ -1,0 +1,12 @@
+{
+  "content": "DEAL NOTE\nCustomer: Apex Logistics Co.\nCustomer ID: C002\nContract ID: K014\nAccount Executive: James Okafor\nDeal Type: Renewal + Upgrade\nDate: January 15, 2024\n\nDEAL SUMMARY\nRenewed Apex Logistics and upgraded from DataSync Pro Starter to Enterprise, expanding from 10 to 50 users. No discount applied. New ARR: $45,000.\n\nRENEWAL NOTES\nThe upgrade was driven by Apex's decision to roll out DataSync Pro to all six regional offices. Brian Calloway championed the expansion internally after positive feedback from the central operations team in their first year.\n\nNEGOTIATION NOTES\nBrian raised concerns about the per-user cost at scale during the renewal call in December 2023. James Okafor addressed this by demonstrating that the Enterprise tier's lower per-user rate ($75 vs $50 Starter) provided better long-term value at their new user count. No discount was needed once the math was clear.\n\nEXPANSION POTENTIAL\nWith 50 users across 6 offices, account is well-penetrated. Monitor for potential addition of external partner users (freight brokers) which Brian mentioned as a possible future use case.\n",
+  "metadata": {
+    "doc_type": "deal_note",
+    "customer_id": "C002",
+    "customer_name": "Apex Logistics Co.",
+    "account_executive": "James Okafor",
+    "contract_id": "K014",
+    "date": "2024-01-15",
+    "year": 2024
+  }
+}

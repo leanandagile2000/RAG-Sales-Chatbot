@@ -1,0 +1,12 @@
+{
+  "content": "CALL TRANSCRIPT\nCustomer: Fairview Legal Group\nCustomer ID: C009\nContract ID: K010\nAccount Executive: Tom Rivera\nCall Type: 90-Day Check-in\nDate: August 2, 2023\nParticipants: Tom Rivera (AE), Claire Osei (Managing Partner)\n\nTom Rivera: Claire, three months in \u2014 how are things going with the management team?\n\nClaire Osei: It's been a positive experience. The matter performance dashboards have replaced the spreadsheet reports we were producing manually each month. Our office manager has probably saved four to five hours a month just from that change.\n\nTom Rivera: That's meaningful time. Any friction points?\n\nClaire Osei: One thing \u2014 we had a partner ask why they couldn't drill down into individual associate billing detail from the dashboard. Right now the dashboard shows aggregate hours by matter but not by individual attorney.\n\nTom Rivera: That level of granularity should be achievable with the custom report builder. It's not set up by default but I can have our solutions team walk you through it. It's probably a 30-minute configuration.\n\nClaire Osei: That would be helpful. Can you arrange that?\n\nTom Rivera: I'll get something on the calendar this week. Anything else?\n\nClaire Osei: One longer-term thought \u2014 we have a sister firm in Atlanta that's expressed interest in what we're doing. I'd be willing to make an introduction if this continues to go well.\n\nTom Rivera: I'd welcome that, Claire. No pressure at all \u2014 let's make sure your team's experience is exactly where you want it first.\n",
+  "metadata": {
+    "doc_type": "call_transcript",
+    "customer_id": "C009",
+    "customer_name": "Fairview Legal Group",
+    "account_executive": "Tom Rivera",
+    "contract_id": "K010",
+    "date": "2023-08-02",
+    "year": 2023
+  }
+}

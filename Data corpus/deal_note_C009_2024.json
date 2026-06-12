@@ -1,0 +1,12 @@
+{
+  "content": "DEAL NOTE\nCustomer: Fairview Legal Group\nCustomer ID: C009\nContract ID: K019\nAccount Executive: Tom Rivera\nDeal Type: Renewal + Upgrade\nDate: May 1, 2024\n\nDEAL SUMMARY\nRenewed Fairview Legal Group and upgraded from InsightIQ Starter to Enterprise, expanding from 5 to 25 users. Applied 5% discount. New ARR: $34,200.\n\nRENEWAL NOTES\nExpansion reflects rollout to all four practice group leads and their senior associates. Claire Osei presented the platform's impact at their annual partners meeting, citing a 40% reduction in time spent on monthly performance reporting. The upgrade to Enterprise was required for the expanded user count and audit logging features.\n\nNEGOTIATION NOTES\nClaire requested a 10% discount citing the significant user count increase. Tom Rivera countered at 5%, noting the upgrade to Enterprise tier already provided better per-user value. Claire accepted after confirming the audit logging feature was included in Enterprise.\n\nEXPANSION POTENTIAL\nFairview is considering expanding InsightIQ access to their paralegals in 2025, which could add another 10-15 users. Claire also mentioned a sister firm in Atlanta that she would be willing to refer if the 2025 rollout goes well.\n",
+  "metadata": {
+    "doc_type": "deal_note",
+    "customer_id": "C009",
+    "customer_name": "Fairview Legal Group",
+    "account_executive": "Tom Rivera",
+    "contract_id": "K019",
+    "date": "2024-05-01",
+    "year": 2024
+  }
+}

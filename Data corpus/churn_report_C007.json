@@ -1,0 +1,12 @@
+{
+  "content": "CHURN REPORT\nCustomer: Redstone Energy\nCustomer ID: C007\nContract ID: K008\nAccount Executive: Sarah Chen\nContract End Date: August 31, 2024\nReport Date: September 5, 2024\n\nREASON FOR CHURN\nRedstone Energy did not renew their DataSync Pro Enterprise contract following a leadership change in their IT department. In April 2024, Redstone appointed a new CTO, Marcus Webb, who conducted a full audit of the company's SaaS stack shortly after joining.\n\nCONTRIBUTING FACTORS\nMarcus Webb came from an organization that had standardized on a competing platform, FieldOps Suite, and he initiated a consolidation effort to bring Redstone onto the same tooling he was familiar with. The decision was largely driven by his prior experience rather than dissatisfaction with DataSync Pro's performance.\n\nSarah Chen met with Webb twice in June and July 2024 to present a retention case, including a competitive pricing proposal and an offer to provide a dedicated implementation resource. Webb acknowledged the platform had performed well under the previous IT team but held firm on consolidation.\n\nExisting champion, IT Director Paula Graves, who had originally championed the DataSync Pro purchase, was moved to a project management role during the restructuring and lost budget authority.\n\nCOMPETITIVE LOSS\nLost to FieldOps Suite. This is the first confirmed loss to FieldOps Suite in the Southwest region.\n\nLESSONS LEARNED\nExecutive-level relationships need to be built earlier and broader. Relying on a single champion created vulnerability when that champion was moved. Recommend tracking C-suite changes in active accounts as an early warning signal.\n\nFINAL ARR LOST: $49,500\n",
+  "metadata": {
+    "doc_type": "churn_report",
+    "customer_id": "C007",
+    "customer_name": "Redstone Energy",
+    "account_executive": "Sarah Chen",
+    "contract_id": "K008",
+    "date": "2024-09-05",
+    "year": 2024
+  }
+}

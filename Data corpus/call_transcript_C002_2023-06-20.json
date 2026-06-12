@@ -1,0 +1,12 @@
+{
+  "content": "CALL TRANSCRIPT\nCustomer: Apex Logistics Co.\nCustomer ID: C002\nContract ID: K002\nAccount Executive: James Okafor\nCall Type: Adoption Review\nDate: June 20, 2023\nParticipants: James Okafor (AE), Brian Calloway (VP of Operations), Sheila Tran (Operations Manager)\n\nJames Okafor: Brian, Sheila \u2014 good to connect. We're about five months in. I pulled your usage data before this call and wanted to walk through what I'm seeing.\n\nBrian Calloway: Sure, go ahead.\n\nJames Okafor: You've got 9 of 10 users active, which is strong. The audit trail feature is being used heavily \u2014 looks like about 40 document version checks per week across the team. That's exactly the use case we talked about.\n\nSheila Tran: Yeah, the version control has been a game changer. We had a situation two months ago where a shipment manifest was updated incorrectly and we were able to trace it back to the exact change within minutes. That would have taken hours before.\n\nBrian Calloway: It's been solid. My question for you is about the regional offices. We've been talking internally about rolling this out more broadly. What does that look like from a licensing perspective?\n\nJames Okafor: The most cost-effective path at that scale would be the Enterprise tier \u2014 lower per-user rate and it includes some admin controls you'd want for managing multiple offices. I can put together a proposal this week if you want to model it out.\n\nBrian Calloway: Yes, do that. We're thinking about the January renewal as the natural moment to make the switch.\n\nJames Okafor: Perfect, I'll have something to you by end of next week.\n",
+  "metadata": {
+    "doc_type": "call_transcript",
+    "customer_id": "C002",
+    "customer_name": "Apex Logistics Co.",
+    "account_executive": "James Okafor",
+    "contract_id": "K002",
+    "date": "2023-06-20",
+    "year": 2023
+  }
+}

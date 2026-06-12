@@ -1,0 +1,13 @@
+{
+  "content": "QBR SUMMARY\nCustomer: Harmon Retail Group\nCustomer ID: C005\nContract ID: K016\nAccount Executive: James Okafor\nPeriod: H2 2024 (July \u2013 December 2024)\nMeeting Date: January 14, 2025\nAttendees: James Okafor (AE), Sandra Harmon (COO), Darius Moore (Regional Manager West), Marcus Lee (Distribution Center Manager)\n\nBUSINESS PERFORMANCE\nHarmon Retail closed 2024 with 27 company-owned stores and 10 franchise locations, ahead of their 12-franchise target by end of 2025. Q4 2024 was another strong holiday quarter. Sandra Harmon shared they are exploring a second distribution center opening in 2025.\n\nPLATFORM USAGE\n65 licensed users active following the November 2024 renewal expansion. Weekly active rate is 94% \u2014 the highest since launch. Mobile usage remains dominant at 71% of activity. The guest link workaround for franchise partners has been deployed to 6 franchise locations with mixed results \u2014 franchise managers find the link expiry workflow confusing.\n\nKEY DISCUSSION POINTS\n- Guest link workaround for franchise access is not scaling well \u2014 Sandra Harmon expressed frustration that 4 of 10 franchise locations are not using it consistently due to the link expiry issue\n- James Okafor escalated the franchise read-only tier request to the product team with a formal business case in October 2024 \u2014 response was that it is under consideration for the 2026 roadmap\n- Second distribution center expansion would add an estimated 15-20 users \u2014 James Okafor to include in 2025 renewal planning\n- Sandra Harmon confirmed she has referred DataSync Pro to two peer COOs in the retail industry\n\nSATISFACTION RATING: 4/5\nSandra Harmon: \"We're happy with the core platform. The franchise situation is a growing frustration. I need a real solution, not a workaround.\"\n\nACTION ITEMS\n- James Okafor to provide a 2026 roadmap update on franchise read-only tier by February 2025\n- Second distribution center expansion proposal to be prepared for Q3 2025 planning\n- Follow up on two referral introductions Sandra Harmon mentioned\n\nNEXT QBR: July 2025\n",
+  "metadata": {
+    "doc_type": "qbr_summary",
+    "customer_id": "C005",
+    "customer_name": "Harmon Retail Group",
+    "account_executive": "James Okafor",
+    "contract_id": "K016",
+    "date": "2025-01-14",
+    "year": 2025,
+    "period": "H2 2024"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "content": "QBR SUMMARY\nCustomer: Harmon Retail Group\nCustomer ID: C005\nContract ID: K016\nAccount Executive: James Okafor\nPeriod: H1 2024 (January \u2013 June 2024)\nMeeting Date: July 9, 2024\nAttendees: James Okafor (AE), Sandra Harmon (COO), Darius Moore (Regional Manager West), Marcus Lee (Distribution Center Manager)\n\nBUSINESS PERFORMANCE\nHarmon Retail added 2 new franchise locations in Q2 2024, bringing their total footprint to 27 company-owned stores and 6 franchise locations. Sandra Harmon noted the franchise model is expanding and they are targeting 12 additional franchise locations by end of 2025.\n\nPLATFORM USAGE\n60 licensed users active as of June 2024, following the distribution center expansion at the November 2023 renewal. Weekly active rate is 92%. Document access from mobile remains high at 68% of all activity. The distribution center team, led by Marcus Lee, has been using the platform for shift handoff documentation since onboarding in December 2023.\n\nKEY DISCUSSION POINTS\n- Marcus Lee reported the shift handoff documentation workflow has reduced miscommunications between shifts \u2014 previously verbal handoffs led to missed tasks weekly\n- The simultaneous mobile edit issue raised in H2 2023 was partially addressed in a product update in March 2024 \u2014 conflicts are now flagged with a clearer resolution prompt\n- Sandra Harmon raised the franchise partner access request again \u2014 she wants a read-only tier for franchise locations. James Okafor confirmed this is not on the 2024 roadmap and proposed the guest link workaround as an interim solution\n- Guest link demo scheduled for August 2024\n\nSATISFACTION RATING: 4/5\nSandra Harmon: \"Platform is delivering well. My only frustration is the franchise access situation \u2014 our franchise partners need to be part of this eventually.\"\n\nACTION ITEMS\n- James Okafor to demo guest link workaround for franchise access by August 15\n- James Okafor to formally escalate franchise read-only tier as a product request with business case\n- Renewal proposal for November 2024 to include distribution center users\n\nNEXT QBR: January 2025\n",
+  "metadata": {
+    "doc_type": "qbr_summary",
+    "customer_id": "C005",
+    "customer_name": "Harmon Retail Group",
+    "account_executive": "James Okafor",
+    "contract_id": "K016",
+    "date": "2024-07-09",
+    "year": 2024,
+    "period": "H1 2024"
+  }
+}

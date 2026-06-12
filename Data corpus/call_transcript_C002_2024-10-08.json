@@ -1,0 +1,12 @@
+{
+  "content": "CALL TRANSCRIPT\nCustomer: Apex Logistics Co.\nCustomer ID: C002\nContract ID: K014\nAccount Executive: James Okafor\nCall Type: Renewal Check-in\nDate: October 8, 2024\nParticipants: James Okafor (AE), Brian Calloway (VP of Operations)\n\nJames Okafor: Brian, we're coming up on the end of your second year. Wanted to get ahead of the renewal and hear how things are going across all six offices.\n\nBrian Calloway: Overall it's been good. The regional teams use it daily. My one gripe \u2014 and I've mentioned this before \u2014 is that the mobile app on Android still has a sync delay when users are in our warehouse facilities. The connectivity there is spotty and the app doesn't handle it as gracefully as the desktop version.\n\nJames Okafor: I hear you on that. I flagged it with our product team earlier this year. It's on the roadmap but I don't have a firm timeline. I'll push for an update this week and get back to you.\n\nBrian Calloway: I appreciate that. It's not a dealbreaker but it's come up in feedback from three of the six offices now, so it's worth tracking.\n\nJames Okafor: Understood. On the renewal itself \u2014 are you happy at 50 users or do you want to model out adding the freight broker use case you mentioned last year?\n\nBrian Calloway: Let's stay at 55 users for now. We added five ops coordinators in Q3. Keep the freight broker idea on the shelf for 2026.\n\nJames Okafor: Works for me. I'll get renewal paperwork over by end of the month.\n",
+  "metadata": {
+    "doc_type": "call_transcript",
+    "customer_id": "C002",
+    "customer_name": "Apex Logistics Co.",
+    "account_executive": "James Okafor",
+    "contract_id": "K014",
+    "date": "2024-10-08",
+    "year": 2024
+  }
+}

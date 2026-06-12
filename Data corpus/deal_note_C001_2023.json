@@ -1,0 +1,12 @@
+{
+  "content": "DEAL NOTE\nCustomer: Meridian Health Systems\nCustomer ID: C001\nContract ID: K001\nAccount Executive: Sarah Chen\nDeal Type: New Business\nDate: March 1, 2023\n\nDEAL SUMMARY\nClosed Meridian Health Systems on InsightIQ Enterprise at 30 users, $43,200 ARR. No discount applied. This was a competitive deal against DataVault Analytics, which Meridian had been evaluating in parallel for approximately six weeks.\n\nDISCOVERY NOTES\nPrimary champion is Dr. Linda Forsythe, Director of Clinical Operations. Her team needed a reporting platform that could aggregate data from their three regional facilities and surface utilization trends without requiring IT involvement for each report. InsightIQ's self-serve dashboard builder was the key differentiator in the final evaluation.\n\nCLOSING NOTES\nThe deal closed cleanly after a two-week proof of concept. IT sign-off came from their CISO, Raymond Park, who reviewed our SOC 2 Type II documentation and was satisfied. Legal turnaround was faster than expected \u2014 four business days.\n\nEXPANSION POTENTIAL\nMeridian has two additional facilities in the planning stage. Dr. Forsythe mentioned they may need to add 10-15 users within the first year if the rollout goes well. Flag for expansion conversation at 6-month mark.\n",
+  "metadata": {
+    "doc_type": "deal_note",
+    "customer_id": "C001",
+    "customer_name": "Meridian Health Systems",
+    "account_executive": "Sarah Chen",
+    "contract_id": "K001",
+    "date": "2023-03-01",
+    "year": 2023
+  }
+}

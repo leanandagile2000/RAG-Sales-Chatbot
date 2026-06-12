@@ -1,0 +1,12 @@
+{
+  "content": "CHURN REPORT\nCustomer: Castlepoint Media\nCustomer ID: C012\nContract ID: K012\nAccount Executive: James Okafor\nContract End Date: July 31, 2024\nReport Date: August 6, 2024\n\nREASON FOR CHURN\nCastlepoint Media chose not to renew their InsightIQ Starter contract after completing their initial one-year term. The account cited a mismatch between the platform's analytics capabilities and their primary need, which evolved over the contract period toward social media performance tracking.\n\nCONTRIBUTING FACTORS\nAt the time of signing in August 2023, Castlepoint was primarily interested in InsightIQ's content performance dashboards for their editorial team. However, by Q1 2024 their focus had shifted significantly toward paid social campaign analytics, an area where InsightIQ has limited native integration compared to dedicated social analytics platforms.\n\nJames Okafor conducted a needs assessment call in May 2024 and identified the gap. He proposed a workaround using InsightIQ's API to pull in social data from third-party sources, but Castlepoint's team lacked the technical resources to implement it. Their Head of Marketing, Diane Tran, confirmed the decision to move to a platform with native social integrations was final.\n\nThe account never expanded beyond the initial 8 users despite outreach in Q3 2023 and Q1 2024.\n\nCOMPETITIVE LOSS\nLost to Sprout Analytics, a social-first analytics platform.\n\nLESSONS LEARNED\nAccounts in media and marketing verticals should be qualified more carefully on their analytics use case at the discovery stage. Social media analytics is a known gap in InsightIQ's current feature set and should be flagged proactively rather than discovered mid-contract.\n\nFINAL ARR LOST: $7,296\n",
+  "metadata": {
+    "doc_type": "churn_report",
+    "customer_id": "C012",
+    "customer_name": "Castlepoint Media",
+    "account_executive": "James Okafor",
+    "contract_id": "K012",
+    "date": "2024-08-06",
+    "year": 2024
+  }
+}

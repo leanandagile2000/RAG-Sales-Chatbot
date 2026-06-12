@@ -1,0 +1,13 @@
+{
+  "content": "QBR SUMMARY\nCustomer: Summit Tech Partners\nCustomer ID: C008\nContract ID: K018\nAccount Executive: James Okafor\nPeriod: H2 2024 (July \u2013 December 2024)\nMeeting Date: January 27, 2025\nAttendees: James Okafor (AE), Alex Nguyen (CTO), Natalie Brooks (Head of Client Services)\n\nBUSINESS PERFORMANCE\nSummit Tech closed 2024 with 36 managed services clients, up from 26 at the start of the year. Revenue grew 28% for the full year. The team now has 14 staff across technical and client services functions.\n\nPLATFORM USAGE\n30 of 30 licensed users active. Weekly report generation at 143 reports per week \u2014 highest in account history. White-label dashboards active for all 36 clients. Automated delivery rate at 94%.\n\nKEY DISCUSSION POINTS\n- Self-serve client portal research completed \u2014 James Okafor presented findings. A limited version of the self-serve concept is achievable using InsightIQ's existing shared dashboard links with view-only permissions. A full client portal with login and branding is not currently on the product roadmap.\n- Alex Nguyen expressed disappointment at the self-serve portal finding but acknowledged the shared dashboard workaround as a workable interim step. Natalie Brooks noted they have already tested it with 3 clients with positive feedback.\n- Renewal discussion: 35 users projected for May 2025 renewal based on pipeline. ARR at 35 users will be $50,400 \u2014 approaching but not yet at the $60K dedicated CSM threshold\n- Alex Nguyen raised SSO performance \u2014 one enterprise client reported intermittent SSO timeout issues in December 2024. James Okafor escalated to the technical team during the QBR.\n\nSATISFACTION RATING: 4/5\nAlex Nguyen: \"Strong year overall. The self-serve portal answer was frustrating but I understand the roadmap constraints. SSO timeout needs to be fixed quickly.\"\n\nACTION ITEMS\n- James Okafor to follow up on SSO timeout escalation with technical team \u2014 resolution timeline expected by February 1\n- Renewal proposal for 35 users to be prepared by April 2025\n- Natalie Brooks to document shared dashboard workaround results from 3 pilot clients for internal case study\n\nNEXT QBR: July 2025\n",
+  "metadata": {
+    "doc_type": "qbr_summary",
+    "customer_id": "C008",
+    "customer_name": "Summit Tech Partners",
+    "account_executive": "James Okafor",
+    "contract_id": "K018",
+    "date": "2025-01-27",
+    "year": 2025,
+    "period": "H2 2024"
+  }
+}

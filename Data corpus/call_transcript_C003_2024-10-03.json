@@ -1,0 +1,12 @@
+{
+  "content": "CALL TRANSCRIPT\nCustomer: Bluewater Financial\nCustomer ID: C003\nContract ID: K015\nAccount Executive: Sarah Chen\nCall Type: Mid-Year Business Review\nDate: October 3, 2024\nParticipants: Sarah Chen (AE), Marcus Webb (Head of Financial Analytics), Christine Yau (Chief Risk Officer)\n\nSarah Chen: Christine, great to have you on the call. Marcus has been a fantastic partner and I'm glad we have the chance to connect directly.\n\nChristine Yau: Likewise. Marcus gave me a strong briefing before this. I wanted to hear from you about where the product is heading, particularly around audit capabilities.\n\nSarah Chen: Audit logging is a priority for us. At the Enterprise tier you're on, every user action is logged with a full timestamp and user attribution. We're also adding tamper-evident log exports in Q1 2025, which I think will be relevant for your regulatory reporting.\n\nChristine Yau: That's exactly what I was hoping to hear. Our compliance team has been asking about immutable audit trails for two years. If that ships in Q1 we'll want to evaluate it immediately.\n\nMarcus Webb: Sarah, I also want to flag that we've had a couple of questions from our compliance team about using InsightIQ for their reporting workflows. That's potentially 8 to 10 more users.\n\nSarah Chen: I'd love to set up a separate call with the compliance team lead to walk through their specific requirements. We have customers in highly regulated environments using InsightIQ for compliance reporting today \u2014 I can bring a case study.\n\nChristine Yau: Let's do that in Q1 once we see the audit log update.\n\nSarah Chen: Perfect. I'll follow up with proposed dates in January.\n",
+  "metadata": {
+    "doc_type": "call_transcript",
+    "customer_id": "C003",
+    "customer_name": "Bluewater Financial",
+    "account_executive": "Sarah Chen",
+    "contract_id": "K015",
+    "date": "2024-10-03",
+    "year": 2024
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "content": "CALL TRANSCRIPT\nCustomer: Harmon Retail Group\nCustomer ID: C005\nContract ID: K005\nAccount Executive: James Okafor\nCall Type: 60-Day Check-in\nDate: January 6, 2024\nParticipants: James Okafor (AE), Sandra Harmon (COO), Darius Moore (Regional Manager, West)\n\nJames Okafor: Sandra, Darius \u2014 happy new year. Two months in, I wanted to hear how the store managers have been finding it.\n\nSandra Harmon: The feedback has been really positive. The mobile app is getting used constantly. Darius, you've been closest to it \u2014 what are you hearing from your stores?\n\nDarius Moore: The managers love that they can pull up the latest procedures on their phones on the floor. We had a compliance visit in December and our store in Fresno had everything up to date because the manager had updated the documents the day before from her phone. That kind of thing would not have happened with our old system.\n\nJames Okafor: That's a great story. Any friction points?\n\nDarius Moore: One thing \u2014 when multiple managers try to edit the same document at the same time, there's occasionally a conflict that requires manual resolution. It doesn't happen often but when it does it confuses the store managers.\n\nJames Okafor: That's a known edge case with simultaneous edits on mobile. I'll flag it with the product team and see if there's a UX improvement in the works. It's come up a couple of times before.\n\nSandra Harmon: Overall we're happy. James, I want to start the conversation about the distribution center. We've got about 18 people there who could benefit from this.\n\nJames Okafor: Let's do it. I'll put together a proposal for adding them at the renewal in November \u2014 or sooner if you want to move ahead before then.\n\nSandra Harmon: November works. Let's keep it clean at renewal time.\n",
+  "metadata": {
+    "doc_type": "call_transcript",
+    "customer_id": "C005",
+    "customer_name": "Harmon Retail Group",
+    "account_executive": "James Okafor",
+    "contract_id": "K005",
+    "date": "2024-01-06",
+    "year": 2024
+  }
+}

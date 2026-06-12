@@ -1,0 +1,13 @@
+{
+  "content": "QBR SUMMARY\nCustomer: Summit Tech Partners\nCustomer ID: C008\nContract ID: K024\nAccount Executive: James Okafor\nPeriod: H2 2025 (July \u2013 December 2025)\nMeeting Date: December 11, 2025\nAttendees: James Okafor (AE), Alex Nguyen (CTO), Natalie Brooks (Head of Client Services), Maria Santos (Dedicated CSM), Jordan Kim (VP of Enterprise Sales)\n\nBUSINESS PERFORMANCE\nSummit Tech closed 2025 with 48 managed services clients, up from 36 at the start of the year. Revenue grew 31% for the full year \u2014 the strongest growth rate since the company's founding. The enterprise sales motion is gaining traction with two Fortune 500 prospects in late-stage evaluation.\n\nPLATFORM USAGE\n35 of 35 licensed users active. Weekly report generation at 179 reports per week. White-label dashboards active for all 48 clients. Automated delivery at 97%.\n\nKEY DISCUSSION POINTS\n- Jordan Kim presented the enterprise sales pipeline \u2014 two Fortune 500 prospects have asked specifically about InsightIQ's data volume capacity and SLA guarantees. James Okafor confirmed InsightIQ supports high-volume deployments and offered to provide an enterprise SLA addendum for the prospect evaluations\n- Alex Nguyen raised the self-serve portal request again in the context of the Fortune 500 prospects \u2014 enterprise clients will not accept a shared link workaround. James Okafor shared that a limited client portal feature is now on the H1 2026 roadmap\n- Maria Santos reported that her independent check-ins with Natalie Brooks have identified 3 underutilized features that could increase client value \u2014 scheduled a feature enablement session for January 2026\n- 2026 renewal: Alex Nguyen expects to need 45 users by mid-2026 based on the enterprise pipeline\n\nSATISFACTION RATING: 5/5\nJordan Kim: \"If the client portal ships in H1 2026, this becomes a centerpiece of our enterprise sales pitch. That would be a significant moment for us.\"\n\nACTION ITEMS\n- James Okafor to provide enterprise SLA addendum to Jordan Kim by December 20\n- Maria Santos to run feature enablement session with Natalie Brooks in January 2026\n- 2026 renewal proposal: 45 users + enterprise SLA terms to be prepared by March 2026\n- James Okafor to confirm client portal H1 2026 delivery date in writing\n\nNEXT QBR: July 2026\n",
+  "metadata": {
+    "doc_type": "qbr_summary",
+    "customer_id": "C008",
+    "customer_name": "Summit Tech Partners",
+    "account_executive": "James Okafor",
+    "contract_id": "K024",
+    "date": "2025-12-11",
+    "year": 2025,
+    "period": "H2 2025"
+  }
+}

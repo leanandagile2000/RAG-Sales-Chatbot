@@ -1,0 +1,12 @@
+{
+  "content": "DEAL NOTE\nCustomer: Bluewater Financial\nCustomer ID: C003\nContract ID: K003\nAccount Executive: Sarah Chen\nDeal Type: New Business\nDate: July 1, 2023\n\nDEAL SUMMARY\nClosed Bluewater Financial on InsightIQ Starter at 5 users, $4,800 ARR. No discount. Longer sales cycle of eight weeks due to compliance review requirements.\n\nDISCOVERY NOTES\nChampion is Marcus Webb, Head of Financial Analytics. Bluewater needed a reporting tool that could handle their regulatory reporting workflows without exposing sensitive client data outside their internal environment. InsightIQ's data residency controls and role-based access features were key to winning the deal.\n\nCLOSING NOTES\nCompliance and legal review took six weeks. Their DPO requested a data processing agreement which our legal team turned around in three days. The 5-user Starter deal is intentionally small \u2014 Bluewater wants to run a controlled pilot with the analytics team before expanding.\n\nEXPANSION POTENTIAL\nMarcus Webb indicated the platform could expand to their risk and portfolio teams if the pilot is successful. Potential to grow to 25+ users by mid-2024. Flag for expansion conversation at 90-day mark.\n",
+  "metadata": {
+    "doc_type": "deal_note",
+    "customer_id": "C003",
+    "customer_name": "Bluewater Financial",
+    "account_executive": "Sarah Chen",
+    "contract_id": "K003",
+    "date": "2023-07-01",
+    "year": 2023
+  }
+}

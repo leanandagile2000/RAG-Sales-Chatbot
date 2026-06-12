@@ -1,0 +1,12 @@
+{
+  "content": "DEAL NOTE\nCustomer: Bluewater Financial\nCustomer ID: C003\nContract ID: K015\nAccount Executive: Sarah Chen\nDeal Type: Renewal + Expansion\nDate: July 1, 2024\n\nDEAL SUMMARY\nRenewed Bluewater Financial and expanded from InsightIQ Starter (5 users) to Enterprise (25 users). No discount applied. New ARR: $36,000.\n\nRENEWAL NOTES\nThe expansion was expected. Marcus Webb confirmed the pilot exceeded expectations and received sign-off from the Chief Risk Officer to roll out InsightIQ to the risk and portfolio management teams. The upgrade to Enterprise tier was driven by the user count increase and the need for Enterprise-level audit logging.\n\nNEGOTIATION NOTES\nNo price negotiation. Bluewater's procurement process was smoother this time as the vendor relationship was already established. DPA amendment was processed in two days.\n\nEXPANSION POTENTIAL\nMarcus Webb mentioned exploring InsightIQ for their compliance reporting team in 2025, which could add another 8-10 users. Flag for mid-2025 conversation.\n",
+  "metadata": {
+    "doc_type": "deal_note",
+    "customer_id": "C003",
+    "customer_name": "Bluewater Financial",
+    "account_executive": "Sarah Chen",
+    "contract_id": "K015",
+    "date": "2024-07-01",
+    "year": 2024
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "content": "CALL TRANSCRIPT\nCustomer: Redstone Energy\nCustomer ID: C007\nContract ID: K008\nAccount Executive: Sarah Chen\nCall Type: Retention Meeting\nDate: June 24, 2024\nParticipants: Sarah Chen (AE), Marcus Webb (CTO)\n\nSarah Chen: Marcus, thank you for making time. I know you've been busy since joining Redstone. I wanted to make sure you had a full picture of what your team has built with DataSync Pro before any decisions are made.\n\nMarcus Webb: I appreciate you coming in, Sarah. I'll be direct \u2014 I've been tasked with consolidating our software stack and FieldOps Suite is already in use at two of our sister companies under the same parent. The economics of standardizing are compelling.\n\nSarah Chen: I understand that logic. Can I ask \u2014 are there specific capabilities your team needs that you feel DataSync Pro isn't delivering?\n\nMarcus Webb: Honestly, no. Paula's team has found it useful. This is more about standardization and my familiarity with FieldOps Suite than about any deficiencies on your end.\n\nSarah Chen: I appreciate the honesty. I'd like to put forward a competitive retention proposal \u2014 pricing adjustment and a dedicated implementation resource to reduce any transition friction from your side. Would that be worth considering?\n\nMarcus Webb: I'll look at it. But I want to be straight with you \u2014 the consolidation direction has executive support and I'd need a significant reason to deviate from it. Send me the proposal and I'll give it a fair read.\n\nSarah Chen: I'll have it to you by end of week.\n",
+  "metadata": {
+    "doc_type": "call_transcript",
+    "customer_id": "C007",
+    "customer_name": "Redstone Energy",
+    "account_executive": "Sarah Chen",
+    "contract_id": "K008",
+    "date": "2024-06-24",
+    "year": 2024
+  }
+}

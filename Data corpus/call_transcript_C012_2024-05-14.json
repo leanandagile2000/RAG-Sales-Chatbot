@@ -1,0 +1,12 @@
+{
+  "content": "CALL TRANSCRIPT\nCustomer: Castlepoint Media\nCustomer ID: C012\nContract ID: K012\nAccount Executive: James Okafor\nCall Type: Renewal Discussion\nDate: May 14, 2024\nParticipants: James Okafor (AE), Diane Tran (Head of Marketing)\n\nJames Okafor: Diane, renewal is coming up in July. I wanted to connect early and understand where things stand.\n\nDiane Tran: James, I'll be upfront. Our business has moved heavily into paid social in the last six months. Social campaign analytics is now the primary thing my team needs and InsightIQ doesn't cover it natively.\n\nJames Okafor: I hear you. Has the editorial content use case continued to deliver value?\n\nDiane Tran: It has, but the team using it for editorial is small and the rest of my department needs social analytics daily. I can't justify two separate platforms when there are tools that do both.\n\nJames Okafor: I want to try one more option \u2014 I can connect you with our solutions team to explore whether the API integration for social data is feasible for your setup. I know you said you don't have technical resources, but there's a managed configuration service we offer that might bridge the gap.\n\nDiane Tran: How much does that cost?\n\nJames Okafor: I'll get you numbers this week. But Diane \u2014 I want to be honest with you too. If Sprout Analytics or a similar platform meets all your needs natively, the managed configuration route may not be the most cost-effective path. I'd rather give you a straight answer than oversell.\n\nDiane Tran: I appreciate that, James. Send me the numbers and I'll take a look. But my current leaning is to move on.\n\nJames Okafor: Understood. Whatever you decide, I'll make sure the transition is smooth.\n",
+  "metadata": {
+    "doc_type": "call_transcript",
+    "customer_id": "C012",
+    "customer_name": "Castlepoint Media",
+    "account_executive": "James Okafor",
+    "contract_id": "K012",
+    "date": "2024-05-14",
+    "year": 2024
+  }
+}

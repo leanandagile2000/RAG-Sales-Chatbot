@@ -1,0 +1,13 @@
+{
+  "content": "QBR SUMMARY\nCustomer: Summit Tech Partners\nCustomer ID: C008\nContract ID: K006\nAccount Executive: James Okafor\nPeriod: H1 2023 (January \u2013 June 2023)\nMeeting Date: July 25, 2023\nAttendees: James Okafor (AE), Alex Nguyen (CTO)\n\nBUSINESS PERFORMANCE\nSummit Tech Partners added 4 new managed services clients in H1 2023, bringing their total client base to 19. Revenue grew 22% year over year, driven by expansion of their enterprise IT services offering. Alex Nguyen noted they are targeting 8 additional clients in H2.\n\nPLATFORM USAGE\nInsightIQ launched May 1, 2023. 24 of 25 licensed users active within the first month \u2014 the fastest activation rate in James Okafor's portfolio. The white-label dashboard feature has been deployed to 12 of 19 managed services clients. Weekly report generation is at 67 reports per week, with 85% generated automatically via scheduled delivery.\n\nKEY DISCUSSION POINTS\n- White-label branding has been well received by Summit Tech's enterprise clients \u2014 two clients specifically cited the professional reporting quality as a factor in their service renewal with Summit Tech\n- SSO requirement raised by Alex Nguyen \u2014 two enterprise clients require SSO for vendor tool access. James Okafor confirmed SSO is on the roadmap but no firm timeline available. Escalation committed.\n- Dedicated CSM request raised \u2014 Alex Nguyen noted the account is growing and would benefit from a named contact. James Okafor explained the $60K ARR threshold for dedicated CSM assignment. Current ARR is $36K.\n- Multi-tenant data isolation confirmed as working as expected \u2014 no cross-client data incidents reported\n\nSATISFACTION RATING: 4.5/5\nAlex Nguyen: \"The white-labeling and automated report delivery are exactly what we needed. SSO is the one thing holding us back from full enterprise client compliance.\"\n\nACTION ITEMS\n- James Okafor to escalate SSO timeline request to product team by August 1\n- Monitor ARR growth toward $60K threshold for dedicated CSM assignment\n- Schedule H2 check-in for November 2023\n\nNEXT QBR: January 2024\n",
+  "metadata": {
+    "doc_type": "qbr_summary",
+    "customer_id": "C008",
+    "customer_name": "Summit Tech Partners",
+    "account_executive": "James Okafor",
+    "contract_id": "K006",
+    "date": "2023-07-25",
+    "year": 2023,
+    "period": "H1 2023"
+  }
+}

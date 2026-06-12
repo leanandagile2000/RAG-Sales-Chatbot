@@ -1,0 +1,12 @@
+{
+  "content": "DEAL NOTE\nCustomer: Pinnacle Education\nCustomer ID: C006\nContract ID: K009\nAccount Executive: Tom Rivera\nDeal Type: New Business\nDate: February 1, 2023\n\nDEAL SUMMARY\nClosed Pinnacle Education on DataSync Pro Starter at 10 users, $5,400 ARR after a 10% discount. Budget-constrained deal in the education sector; discount was necessary to close.\n\nDISCOVERY NOTES\nChampion is Rachel Kim, Director of Academic Technology. Pinnacle needed a document collaboration platform for their curriculum development team, which was spread across three campuses. Their existing Google Drive setup was creating version control issues and lacked the audit trail they needed for accreditation documentation.\n\nCLOSING NOTES\nTom Rivera offered a 10% discount after Pinnacle's budget committee reduced their software allocation for the year. Rachel Kim confirmed the discount was the deciding factor in moving forward rather than waiting until the next fiscal year. A multi-year commitment was discussed but not agreed to at this stage.\n\nEXPANSION POTENTIAL\nPinnacle has a broader faculty base of 80+ staff. If the curriculum team pilot is successful, there is meaningful expansion potential across academic departments. Flag for expansion at 6-month mark.\n",
+  "metadata": {
+    "doc_type": "deal_note",
+    "customer_id": "C006",
+    "customer_name": "Pinnacle Education",
+    "account_executive": "Tom Rivera",
+    "contract_id": "K009",
+    "date": "2023-02-01",
+    "year": 2023
+  }
+}

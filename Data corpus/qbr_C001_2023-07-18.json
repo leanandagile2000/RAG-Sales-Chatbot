@@ -1,0 +1,13 @@
+{
+  "content": "QBR SUMMARY\nCustomer: Meridian Health Systems\nCustomer ID: C001\nContract ID: K001\nAccount Executive: Sarah Chen\nPeriod: H1 2023 (January \u2013 June 2023)\nMeeting Date: July 18, 2023\nAttendees: Sarah Chen (AE), Dr. Linda Forsythe (Director of Clinical Operations), Kevin Marsh (IT Coordinator)\n\nBUSINESS PERFORMANCE\nMeridian Health Systems completed the integration of their second regional facility in Q1 2023. Patient volume across both facilities is up 12% year over year. A third facility is in planning stages with an expected opening in early 2024.\n\nPLATFORM USAGE\nInsightIQ launched March 1, 2023. 22 of 30 licensed users are active as of June 2023. Weekly report generation has averaged 34 reports per week across the clinical operations team. The self-serve dashboard builder is the most used feature, with 8 custom dashboards created by team leads in the first quarter.\n\nKEY DISCUSSION POINTS\n- SSO integration experienced initial delays due to identity provider configuration issues \u2014 resolved by May 2023\n- PDF export rendering issue was flagged by Dr. Forsythe \u2014 certain report layouts do not render cleanly in PDF. Sarah Chen committed to logging with product team and following up with a timeline\n- Dr. Forsythe highlighted the shift from IT-mediated reporting to self-serve as the primary value delivered \u2014 \"Before this, every report request went through IT with a two-week wait. Now team leads build their own views.\"\n- Third facility opening in early 2024 will require 10-12 additional users \u2014 expansion conversation to begin in Q4 2023\n\nSATISFACTION RATING: 4.5/5\nDr. Forsythe: \"The self-serve aspect has been transformative for our team. The SSO issue was frustrating but it's behind us now.\"\n\nACTION ITEMS\n- Sarah Chen to follow up on PDF export rendering issue with product team timeline by August 1\n- Expansion proposal for third facility to be prepared by October 2023\n- Kevin Marsh to confirm SSO configuration documentation is complete for IT records\n\nNEXT QBR: January 2024\n",
+  "metadata": {
+    "doc_type": "qbr_summary",
+    "customer_id": "C001",
+    "customer_name": "Meridian Health Systems",
+    "account_executive": "Sarah Chen",
+    "contract_id": "K001",
+    "date": "2023-07-18",
+    "year": 2023,
+    "period": "H1 2023"
+  }
+}
